@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:07:20.953087",
+    "chat_id": 6771859258,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6771859258,
+        "username": "hitesh_grewal_827",
+        "first_name": "Hitesh",
+        "last_name": "Grewal",
+        "phone": "914850066717",
+        "bio": "Just a guy who likes movies and code.",
+        "profile_picture_file": "pfp_hitesh_grewal_827.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-24T09:17:47+00:00",
+            "text": "7:00 it is. This is turning into a great plan.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-24T09:21:04+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-24T09:26:58+00:00",
+            "text": "Was thinking of catching that new comedy movie. Interested? ??",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-24T09:32:36+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-24T09:35:19+00:00",
+            "text": "Hey Bhanumati! What's up?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-24T09:39:23+00:00",
+            "text": "Was thinking of catching that new comedy movie. Interested? ??",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-24T09:46:13+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-24T09:52:54+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-24T10:00:50+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-24T10:04:58+00:00",
+            "text": "Orion sounds good. 7 PM works for me.",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-24T10:11:00+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-24T10:18:21+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-24T10:21:18+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-24T10:25:17+00:00",
+            "text": "Hmm, how about that new Italian place, 'Tak Inc'? I've heard good things about their noodles.",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-24T10:32:55+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-24T10:36:08+00:00",
+            "text": "Definitely! Was just about to suggest that. What are you in the mood for?",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-24T10:40:39+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-24T10:48:10+00:00",
+            "text": "You're a star! Thanks Hitesh.",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-24T10:55:12+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-24T10:57:33+00:00",
+            "text": "Hmm, how about that new Mexican place, 'Krish LLC'? I've heard good things about their noodles.",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-24T11:02:07+00:00",
+            "text": "Oh yeah, 'Integrated zero-defect installation'? I've been wanting to see that! Saturday evening?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-24T11:07:39+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 7:30?",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-24T11:10:29+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-24T11:15:55+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=2166143045)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-24T11:19:15+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

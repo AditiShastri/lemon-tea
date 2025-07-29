@@ -1,0 +1,42 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T15:15:30.555555",
+    "chat_id": 8123456789,
+    "chat_type": "User",
+    "user_info": {
+        "id": 8123456789,
+        "username": "arjun_p",
+        "first_name": "Arjun",
+        "last_name": null,
+        "phone": "919988776655",
+        "bio": null,
+        "profile_picture_file": "pfp_arjun_p.jpg"
+    },
+    "messages": [
+        { "id": 301, "date": "2025-07-27T12:10:15+00:00", "text": "Dude. You will not BELIEVE what just happened at the grocery store.", "from_id": null, "media_file": null },
+        { "id": 302, "date": "2025-07-27T12:10:40+00:00", "text": "Oh god, what did you do now?", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 303, "date": "2025-07-27T12:11:05+00:00", "text": "It wasn't me! So I'm in the cereal aisle, right?", "from_id": null, "media_file": null },
+        { "id": 304, "date": "2025-07-27T12:11:20+00:00", "text": "A dangerous place for you. Go on.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 305, "date": "2025-07-27T12:11:55+00:00", "text": "And this guy is trying to get a box from the top shelf. He's climbing the shelves like it's a rock climbing wall.", "from_id": null, "media_file": null },
+        { "id": 306, "date": "2025-07-27T12:12:10+00:00", "text": "NO WAY. 😂", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 307, "date": "2025-07-27T12:12:40+00:00", "text": "YES. And he slips. An entire avalanche of Choco Puffs comes down on him. He was just sitting there, covered in cereal.", "from_id": null, "media_file": null },
+        { "id": 308, "date": "2025-07-27T12:13:05+00:00", "text": "I'm actually crying. Please tell me you helped him.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 309, "date": "2025-07-27T12:13:33+00:00", "text": "Of course I did! After I finished laughing so hard I couldn't breathe.", "from_id": null, "media_file": null },
+        { "id": 310, "date": "2025-07-27T12:13:50+00:00", "text": "You are a terrible person. And a great storyteller.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 311, "date": "2025-07-27T12:14:12+00:00", "text": "I try. The best part was the store manager just walked by, sighed, and said 'Not again, Dave.'", "from_id": null, "media_file": null },
+        { "id": 312, "date": "2025-07-27T12:14:35+00:00", "text": "It's a regular occurrence?! That's even funnier.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 313, "date": "2025-07-27T12:14:55+00:00", "text": "Apparently Dave is a menace in aisle 5.", "from_id": null, "media_file": null },
+        { "id": 314, "date": "2025-07-27T12:15:20+00:00", "text": "Poor Dave. But also, what a legend.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 315, "date": "2025-07-27T12:15:45+00:00", "text": "The legend of Cereal Dave.", "from_id": null, "media_file": null },
+        { "id": 316, "date": "2025-07-27T12:16:01+00:00", "text": "Thanks for that, you made my day.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 317, "date": "2025-07-27T12:16:15+00:00", "text": "Anytime. My life is a comedy.", "from_id": null, "media_file": null },
+        { "id": 318, "date": "2025-07-27T12:16:40+00:00", "text": "True that. So did you get your own cereal or were you too traumatized?", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 319, "date": "2025-07-27T12:17:00+00:00", "text": "I grabbed a box that was safely on a lower shelf. I'm not making Dave's mistakes.", "from_id": null, "media_file": null },
+        { "id": 320, "date": "2025-07-27T12:17:18+00:00", "text": "Wise man. ", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 321, "date": "2025-07-27T19:20:00+00:00", "text": "Still thinking about Cereal Dave and laughing.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 322, "date": "2025-07-27T19:21:30+00:00", "text": "He's a local hero now. I might go back next week to see if he's there.", "from_id": null, "media_file": null },
+        { "id": 323, "date": "2025-07-27T19:21:55+00:00", "text": "Get a video next time. For science.", "from_id": "PeerUser(user_id=8987654321)", "media_file": null },
+        { "id": 324, "date": "2025-07-27T19:22:10+00:00", "text": "Haha, I'll see what I can do.", "from_id": null, "media_file": null },
+        { "id": 325, "date": "2025-07-27T19:22:25+00:00", "text": "The things you witness...", "from_id": "PeerUser(user_id=8987654321)", "media_file": null }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:46.076983",
+    "chat_id": 4981348642,
+    "chat_type": "User",
+    "user_info": {
+        "id": 4981348642,
+        "username": "vedant_som_842",
+        "first_name": "Vedant",
+        "last_name": "Som",
+        "phone": "917797917827",
+        "bio": "Exploring new ideas.",
+        "profile_picture_file": "pfp_vedant_som_842.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-26T12:59:17+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-26T13:01:57+00:00",
+            "text": "6:30 it is. This is turning into a great plan.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-26T13:06:31+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-26T13:11:38+00:00",
+            "text": "Orion sounds good. 10 PM works for me.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-26T13:18:18+00:00",
+            "text": "Oh yeah, 'Fundamental logistical functionalities'? I've been wanting to see that! Saturday evening?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-26T13:24:05+00:00",
+            "text": "Oh yeah, 'Extended 4thgeneration paradigm'? I've been wanting to see that! Saturday evening?",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-26T13:27:33+00:00",
+            "text": "Haha, not even close. My fingers still hate me. It's a deal, I'll book the tickets and see you on Saturday. Gotta run to a meeting now, catch you later!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-26T13:35:32+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-26T13:38:13+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-26T13:41:11+00:00",
+            "text": "Orion sounds good. 9 PM works for me.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-26T13:49:02+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-26T13:54:42+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-26T14:00:46+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-26T14:04:59+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-26T14:10:43+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-26T14:17:04+00:00",
+            "text": "Orion sounds good. 10 PM works for me.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-26T14:23:44+00:00",
+            "text": "Hey Megha! What's up?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-26T14:29:58+00:00",
+            "text": "Haha, not even close. My fingers still hate me. It's a deal, I'll book the tickets and see you on Saturday. Gotta run to a meeting now, catch you later!",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-26T14:33:05+00:00",
+            "text": "You're a star! Thanks Megha.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-26T14:40:12+00:00",
+            "text": "Hey Vedant! What's up?",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-26T14:47:14+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 6:30?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-26T14:54:34+00:00",
+            "text": "Hmm, how about that new Italian place, 'Gara, Krish and Vohra'? I've heard good things about their pasta.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-26T15:00:09+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-26T15:06:08+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": "PeerUser(user_id=7881105408)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-26T15:08:24+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

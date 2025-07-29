@@ -1,0 +1,20 @@
+# For connecting to the Telegram API
+telethon
+
+# For data handling and manipulation
+pandas
+
+# For advanced NLP: entity recognition, etc.
+spacy
+
+# For sentiment analysis
+vaderSentiment
+
+# For machine learning model training (recommended)
+lightgbm
+
+# For ML utilities like splitting data and evaluation metrics
+scikit-learn
+
+# For graph-based feature concepts (even if used as a proxy)
+networkx

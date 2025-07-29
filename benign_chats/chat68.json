@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:45.900574",
+    "chat_id": 1564858263,
+    "chat_type": "User",
+    "user_info": {
+        "id": 1564858263,
+        "username": "nachiket_das_563",
+        "first_name": "Nachiket",
+        "last_name": "Das",
+        "phone": "914226669943",
+        "bio": "Just a guy who likes movies and code.",
+        "profile_picture_file": "pfp_nachiket_das_563.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-27T08:15:54+00:00",
+            "text": "Sounds good! Talk soon.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-27T08:19:25+00:00",
+            "text": "Hey Nachiket! What's up?",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-27T08:25:46+00:00",
+            "text": "Okay, there's a 9:00 PM show at the Muzaffarpur Mall and an 9:45 PM at Orion. Orion has better seats available.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-27T08:31:32+00:00",
+            "text": "Haha, not even close. My fingers still hate me. It's a deal, I'll book the tickets and see you on Saturday. Gotta run to a meeting now, catch you later!",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-27T08:34:35+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-27T08:40:21+00:00",
+            "text": "Okay, there's a 7:15 PM show at the Karawal Nagar Mall and an 8:45 PM at Orion. Orion has better seats available.",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-27T08:43:22+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-27T08:48:25+00:00",
+            "text": "You're a star! Thanks Nachiket.",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-27T08:50:41+00:00",
+            "text": "Okay, there's a 7:15 PM show at the Darbhanga Mall and an 10:30 PM at Orion. Orion has better seats available.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-27T08:57:46+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-27T09:04:13+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-27T09:10:18+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-27T09:14:27+00:00",
+            "text": "Hey Kashish! What's up?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-27T09:17:30+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the cooking coming along? Can you finish 'Cloned methodical array' yet? ;)",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-27T09:22:12+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-27T09:27:16+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-27T09:29:49+00:00",
+            "text": "Okay, there's a 6:30 PM show at the Bijapur Mall and an 10:30 PM at Orion. Orion has better seats available.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-27T09:36:20+00:00",
+            "text": "You're a star! Thanks Nachiket.",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-27T09:43:10+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the guitar coming along? Can you finish 'Synergistic 5thgeneration functionalities' yet? ;)",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-27T09:46:32+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-27T09:51:25+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-27T09:54:27+00:00",
+            "text": "Okay, there's a 6:30 PM show at the Aizawl Mall and an 7:15 PM at Orion. Orion has better seats available.",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-27T09:56:37+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-27T10:01:17+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=7004382811)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-27T10:05:29+00:00",
+            "text": "Hmm, how about that new Asian place, 'Mand Group'? I've heard good things about their noodles.",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

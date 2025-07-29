@@ -1,0 +1,248 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:10:13.704232",
+    "chat_id": 3362515684,
+    "chat_type": "User",
+    "user_info": {
+        "id": 3362515684,
+        "username": "teerth_itaque85",
+        "first_name": "Teerth",
+        "last_name": null,
+        "phone": "05699108591",
+        "bio": "Odio sit laudantium sequi quibusdam.",
+        "profile_picture_file": "pfp_teerth_itaque85.jpg"
+    },
+    "messages": [
+        {
+            "id": 412319,
+            "date": "2025-07-27T05:20:41.413469+00:00",
+            "text": "Ugh, what a day.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412320,
+            "date": "2025-07-27T05:32:19.291025+00:00",
+            "text": "Oh no, what happened?",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412321,
+            "date": "2025-07-27T05:35:58.694336+00:00",
+            "text": "My boss, Krishna, is driving me crazy. The deadline for the experiences project got moved up.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412322,
+            "date": "2025-07-27T05:45:17.862779+00:00",
+            "text": "No way! That's so unfair.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412323,
+            "date": "2025-07-27T05:58:38.608818+00:00",
+            "text": "Tell me about it. I'll be working all weekend now.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412324,
+            "date": "2025-07-27T06:01:17.285412+00:00",
+            "text": "That sucks. I'm sorry to hear that.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412325,
+            "date": "2025-07-27T06:11:44.893881+00:00",
+            "text": "Thanks for listening. Just needed to vent.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412326,
+            "date": "2025-07-27T06:25:36.864603+00:00",
+            "text": "Anytime. We should grab a drink once you're done with it.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412327,
+            "date": "2025-07-27T06:38:40.568870+00:00",
+            "text": "Definitely. I'm going to need it.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412328,
+            "date": "2025-07-27T06:51:43.502183+00:00",
+            "text": "Hang in there!",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412329,
+            "date": "2025-07-27T06:55:41.477851+00:00",
+            "text": "Power through!",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412330,
+            "date": "2025-07-27T07:01:35.832001+00:00",
+            "text": "You got this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412331,
+            "date": "2025-07-27T07:11:28.056494+00:00",
+            "text": "Power through!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412332,
+            "date": "2025-07-27T07:17:47.060100+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412333,
+            "date": "2025-07-27T07:19:01.217448+00:00",
+            "text": "Power through!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412334,
+            "date": "2025-07-27T07:30:46.070041+00:00",
+            "text": "Can't believe this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412335,
+            "date": "2025-07-27T07:45:08.247950+00:00",
+            "text": "I know, right?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412336,
+            "date": "2025-07-27T07:46:55.085281+00:00",
+            "text": "You got this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412337,
+            "date": "2025-07-27T07:58:25.853778+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412338,
+            "date": "2025-07-27T08:00:14.486549+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412339,
+            "date": "2025-07-27T08:01:55.326346+00:00",
+            "text": "Power through!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412340,
+            "date": "2025-07-27T08:12:29.660321+00:00",
+            "text": "You got this.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412341,
+            "date": "2025-07-27T08:15:27.348651+00:00",
+            "text": "I know, right?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412342,
+            "date": "2025-07-27T08:24:12.505833+00:00",
+            "text": "Power through!",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412343,
+            "date": "2025-07-27T08:29:46.600660+00:00",
+            "text": "I know, right?",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412344,
+            "date": "2025-07-27T08:33:41.963039+00:00",
+            "text": "Can't believe this.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412345,
+            "date": "2025-07-27T08:43:43.006798+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412346,
+            "date": "2025-07-27T08:51:48.410928+00:00",
+            "text": "You got this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412347,
+            "date": "2025-07-27T09:00:56.317295+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412348,
+            "date": "2025-07-27T09:06:33.655106+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 412349,
+            "date": "2025-07-27T09:14:03.508536+00:00",
+            "text": "You got this.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412350,
+            "date": "2025-07-27T09:16:16.683213+00:00",
+            "text": "Nemo earum maiores officiis repudiandae doloremque repudiandae.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        },
+        {
+            "id": 412351,
+            "date": "2025-07-27T09:30:13.638286+00:00",
+            "text": "Aspernatur quidem ullam dolorum expedita.",
+            "from_id": "PeerUser(user_id=6625444295)",
+            "media_file": null
+        }
+    ]
+}

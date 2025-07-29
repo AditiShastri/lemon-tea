@@ -1,0 +1,241 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:10:13.500723",
+    "chat_id": 7336847300,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7336847300,
+        "username": "indali_quibusdam76",
+        "first_name": "Indali",
+        "last_name": null,
+        "phone": "3343796206",
+        "bio": "Asperiores optio mollitia occaecati suscipit.",
+        "profile_picture_file": "pfp_indali_quibusdam76.jpg"
+    },
+    "messages": [
+        {
+            "id": 124001,
+            "date": "2025-07-26T23:43:17.084938+00:00",
+            "text": "Hey! Free this weekend?",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124002,
+            "date": "2025-07-26T23:52:00.584819+00:00",
+            "text": "Hey! Yeah, mostly. What's up?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124003,
+            "date": "2025-07-27T00:00:00.047018+00:00",
+            "text": "Was thinking of watching that new movie, 'Versatile secondary open architecture'. Heard it's good.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124004,
+            "date": "2025-07-27T00:14:27.685036+00:00",
+            "text": "Oh nice! I'm in. What time?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124005,
+            "date": "2025-07-27T00:19:15.746714+00:00",
+            "text": "Saturday evening show? Around 7?",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124006,
+            "date": "2025-07-27T00:23:33.031831+00:00",
+            "text": "Perfect. Should we eat before or after?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124007,
+            "date": "2025-07-27T00:25:39.269768+00:00",
+            "text": "Let's grab dinner after. I'm always starving post-movie.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124008,
+            "date": "2025-07-27T00:38:22.633464+00:00",
+            "text": "Haha, same. Deal. You booking or me?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124009,
+            "date": "2025-07-27T00:39:36.422881+00:00",
+            "text": "I can book. I'll send you a GPay request.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124010,
+            "date": "2025-07-27T00:42:49.313252+00:00",
+            "text": "Sounds good. Thanks!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124011,
+            "date": "2025-07-27T00:52:03.812280+00:00",
+            "text": "No problem! Excited.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124012,
+            "date": "2025-07-27T01:01:21.253676+00:00",
+            "text": "Hope the traffic isn't bad.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124013,
+            "date": "2025-07-27T01:02:55.050788+00:00",
+            "text": "It's gonna be fun.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124014,
+            "date": "2025-07-27T01:13:37.382749+00:00",
+            "text": "Can't wait!",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124015,
+            "date": "2025-07-27T01:25:38.663892+00:00",
+            "text": "It's gonna be fun.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124016,
+            "date": "2025-07-27T01:39:51.317805+00:00",
+            "text": "Did you see the reviews?",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124017,
+            "date": "2025-07-27T01:43:49.365092+00:00",
+            "text": "It's gonna be fun.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124018,
+            "date": "2025-07-27T01:52:30.433628+00:00",
+            "text": "Hope the traffic isn't bad.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124019,
+            "date": "2025-07-27T01:55:20.372579+00:00",
+            "text": "Did you see the reviews?",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124020,
+            "date": "2025-07-27T02:08:18.942587+00:00",
+            "text": "Can't wait!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124021,
+            "date": "2025-07-27T02:20:41.130876+00:00",
+            "text": "My friend said it was amazing.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124022,
+            "date": "2025-07-27T02:23:21.944730+00:00",
+            "text": "It's gonna be fun.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124023,
+            "date": "2025-07-27T02:26:11.856201+00:00",
+            "text": "It's gonna be fun.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124024,
+            "date": "2025-07-27T02:27:42.982566+00:00",
+            "text": "It's gonna be fun.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124025,
+            "date": "2025-07-27T02:33:40.352152+00:00",
+            "text": "Did you see the reviews?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124026,
+            "date": "2025-07-27T02:38:41.178186+00:00",
+            "text": "Can't wait!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124027,
+            "date": "2025-07-27T02:50:52.752769+00:00",
+            "text": "It's gonna be fun.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124028,
+            "date": "2025-07-27T02:55:13.640493+00:00",
+            "text": "Can't wait!",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124029,
+            "date": "2025-07-27T02:57:21.837755+00:00",
+            "text": "Consequatur magnam sunt possimus.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124030,
+            "date": "2025-07-27T03:03:43.274170+00:00",
+            "text": "Inventore illum at provident quis ullam sed nulla.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 124031,
+            "date": "2025-07-27T03:13:04.109020+00:00",
+            "text": "Fuga cupiditate qui hic.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        },
+        {
+            "id": 124032,
+            "date": "2025-07-27T03:19:44.508177+00:00",
+            "text": "Esse distinctio mollitia perspiciatis neque quisquam est.",
+            "from_id": "PeerUser(user_id=9190937632)",
+            "media_file": null
+        }
+    ]
+}

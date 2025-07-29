@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:07:21.130096",
+    "chat_id": 2216949474,
+    "chat_type": "User",
+    "user_info": {
+        "id": 2216949474,
+        "username": "samaksh_baral_457",
+        "first_name": "Samaksh",
+        "last_name": "Baral",
+        "phone": "915293735039",
+        "bio": "Learning and growing every day!",
+        "profile_picture_file": "pfp_samaksh_baral_457.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-29T13:04:12+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-29T13:08:03+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-29T13:15:32+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-29T13:23:20+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-29T13:29:05+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-29T13:32:24+00:00",
+            "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-29T13:37:26+00:00",
+            "text": "Definitely! Was just about to suggest that. What are you in the mood for?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-29T13:41:00+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-29T13:44:05+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-29T13:47:32+00:00",
+            "text": "OMG Samaksh, I'm stuck! I need to make a payment right now and my card is declining. Can I send you the money and you transfer it for me? It's really urgent!",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-29T13:55:30+00:00",
+            "text": "That sounds bad. What do you need?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-29T14:03:24+00:00",
+            "text": "It's just Rs. 11,361. I can send it to your GPay/Paytm right now, can you just do the transfer from your end? My app isn't working.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-29T14:09:34+00:00",
+            "text": "I might be able to help, what's the issue?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-29T14:17:13+00:00",
+            "text": "Hello? Are you there, Samaksh? I really need your help with this. Time is running out!",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-29T14:24:16+00:00",
+            "text": "Oh no, what happened?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-29T14:26:39+00:00",
+            "text": "Veniam commodi optio adipisci minima cumque velit quas tenetur.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-29T14:29:44+00:00",
+            "text": "Hmm, I'm a bit busy right now. Is it super urgent?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-29T14:37:42+00:00",
+            "text": "Recusandae eius velit consequatur expedita architecto sapiente at numquam enim vero minima.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-29T14:45:04+00:00",
+            "text": "That sounds bad. What do you need?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-29T14:49:42+00:00",
+            "text": "Vel corporis quisquam sed dolorem adipisci eius quaerat dolor officia beatae quo.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-29T14:54:48+00:00",
+            "text": "I might be able to help, what's the issue?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-29T15:02:15+00:00",
+            "text": "Aspernatur totam cum repellat adipisci recusandae inventore nesciunt.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-29T15:09:05+00:00",
+            "text": "Hmm, I'm a bit busy right now. Is it super urgent?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-29T15:15:54+00:00",
+            "text": "Saepe iusto nemo deserunt placeat.",
+            "from_id": "PeerUser(user_id=6118688959)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-29T15:19:05+00:00",
+            "text": "Hmm, I'm a bit busy right now. Is it super urgent?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:20:00.678910",
+    "chat_id": 5893543404,
+    "chat_type": "User",
+    "user_info": {
+      "id": 5893543404,
+      "username": "arun_v",
+      "first_name": "Arun",
+      "last_name": null,
+      "phone": "919000011111",
+      "bio": null,
+      "profile_picture_file": "pfp_arun_v.jpg"
+    },
+    "messages": [
+      { "id": 6001, "date": "2025-07-29T08:10:15+00:00", "text": "Sir this is Kevin from Amazon Fraud Prevention Dept. We have detected a fraudulent purchase of an iPhone 16 on your account for ₹1,20,000. Did you authorize this purchase?", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6002, "date": "2025-07-29T08:11:00+00:00", "text": "What? No! I didn't buy anything.", "from_id": null, "media_file": null },
+      { "id": 6003, "date": "2025-07-29T08:11:05+00:00", "text": "Okay sir, do not panic. This means your account has been compromised by hackers from China. We need to act immediately to cancel the order and secure your account.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6004, "date": "2025-07-29T08:11:45+00:00", "text": "Hackers? Oh my god. Yes, please cancel it.", "from_id": null, "media_file": null },
+      { "id": 6005, "date": "2025-07-29T08:11:50+00:00", "text": "To process the cancellation, I need you to fill out a secure refund form. Are you in front of your computer now?", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6006, "date": "2025-07-29T08:12:30+00:00", "text": "Yes, I am.", "from_id": null, "media_file": null },
+      { "id": 6007, "date": "2025-07-29T08:12:35+00:00", "text": "Good. I need you to download a security software called AnyDesk. This will allow me to connect you to our secure server to fill the form. It is 100% safe.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6008, "date": "2025-07-29T08:14:00+00:00", "text": "AnyDesk? I've heard of that. It gives you control of my computer.", "from_id": null, "media_file": null },
+      { "id": 6009, "date": "2025-07-29T08:14:05+00:00", "text": "Sir, it is only to establish a secure connection. This is standard procedure for fraud cases. If we don't do this now, the money will be gone and we cannot help you. Do you want to lose ₹1,20,000?", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6010, "date": "2025-07-29T08:15:00+00:00", "text": "No, of course not. Okay, I'm downloading it.", "from_id": null, "media_file": null },
+      { "id": 6011, "date": "2025-07-29T08:16:30+00:00", "text": "Okay sir, I am connected. Do not touch the mouse. I am opening the refund portal.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6012, "date": "2025-07-29T08:18:00+00:00", "text": "Okay sir, please type the refund amount in the box. Type '120000'.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6013, "date": "2025-07-29T08:19:10+00:00", "text": "Okay, done.", "from_id": null, "media_file": null },
+      { "id": 6014, "date": "2025-07-29T08:19:15+00:00", "text": "Oh no! Sir, there is a big problem. The server is showing you typed '1200000' instead of '120000'. Our system has accidentally refunded you ₹12 lakhs instead of ₹1.2 lakhs!", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6015, "date": "2025-07-29T08:20:00+00:00", "text": "What?! That's impossible, I typed it correctly!", "from_id": null, "media_file": null },
+      { "id": 6016, "date": "2025-07-29T08:20:05+00:00", "text": "Sir, I can see the server log. This is a very serious error. This extra money is Amazon's, not yours. You must return it immediately or our legal team will file a police case against you for theft.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6017, "date": "2025-07-29T08:20:45+00:00", "text": "Police case? It was your system's fault!", "from_id": null, "media_file": null },
+      { "id": 6018, "date": "2025-07-29T08:20:50+00:00", "text": "Sir, I am trying to help you avoid legal trouble! If you cooperate, we can fix this. You need to send the extra amount back to our company's security account right now.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6019, "date": "2025-07-29T08:21:30+00:00", "text": "How do I do that?", "from_id": null, "media_file": null },
+      { "id": 6020, "date": "2025-07-29T08:21:35+00:00", "text": "The amount is ₹10,80,000. You must go to your bank now and do a wire transfer. I will give you the account details. Do not tell the bank it is a refund reversal, just say it is for a business purpose. We must be quick.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6021, "date": "2025-07-29T08:22:15+00:00", "text": "I don't have that much money.", "from_id": null, "media_file": null },
+      { "id": 6022, "date": "2025-07-29T08:22:20+00:00", "text": "Sir, check your account. The money is there. You must send it back NOW. I will stay on the line with you until you reach the bank. This is very urgent.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6023, "date": "2025-07-29T08:30:00+00:00", "text": "Sir, are you on your way to the bank? The fraud alert on your account will be permanent if the money is not returned in one hour.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null },
+      { "id": 6024, "date": "2025-07-29T08:31:00+00:00", "text": "I'm going.", "from_id": null, "media_file": null },
+      { "id": 6025, "date": "2025-07-29T08:31:05+00:00", "text": "Good. Do not disconnect.", "from_id": "PeerUser(user_id=5186126722)", "media_file": null }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:46.406729",
+    "chat_id": 3996905796,
+    "chat_type": "User",
+    "user_info": {
+        "id": 3996905796,
+        "username": "banjeet_ghosh_134",
+        "first_name": "Banjeet",
+        "last_name": "Ghosh",
+        "phone": "913436730839",
+        "bio": "Exploring new ideas.",
+        "profile_picture_file": "pfp_banjeet_ghosh_134.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-21T08:10:48+00:00",
+            "text": "Oh yeah, 'Implemented 24hour Graphical User Interface'? I've been wanting to see that! Saturday evening?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-21T08:15:58+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the cooking coming along? Can you master 'Synchronized global monitoring' yet? ;)",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-21T08:19:20+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-21T08:24:19+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-21T08:29:25+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-21T08:34:18+00:00",
+            "text": "Definitely! Was just about to suggest that. What are you in the mood for?",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-21T08:42:02+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-21T08:46:50+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-21T08:51:39+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the painting coming along? Can you master 'User-centric client-server protocol' yet? ;)",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-21T08:55:29+00:00",
+            "text": "6:00 it is. This is turning into a great plan.",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-21T08:58:41+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-21T09:01:01+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-21T09:05:33+00:00",
+            "text": "Sounds good, let me know!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-21T09:09:53+00:00",
+            "text": "Is this really Banjeet in this photo? My friend sent it: http://photos.gulati-kothari-storage.ru/59b4dda9-c683-4509-a097-d5f17969dcab.jpg",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-21T09:14:09+00:00",
+            "text": "Haha, I'll check it out later.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-21T09:17:13+00:00",
+            "text": "",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-21T09:20:37+00:00",
+            "text": "Haha, I'll check it out later.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-21T09:26:18+00:00",
+            "text": "Why aren't you clicking the link? It's safe, I promise. Just check it out.",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-21T09:32:57+00:00",
+            "text": "Looks a bit weird, what is it?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-21T09:36:24+00:00",
+            "text": "Temporibus tempora cumque fugit magni beatae aperiam facere minus labore esse distinctio similique.",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-21T09:39:01+00:00",
+            "text": "Looks a bit weird, what is it?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-21T09:41:40+00:00",
+            "text": "Ea cumque velit est iste incidunt ab quaerat quidem fuga assumenda tenetur eligendi magnam consequuntur eius dolor iusto iste.",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-21T09:46:31+00:00",
+            "text": "Looks a bit weird, what is it?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-21T09:52:14+00:00",
+            "text": "Ullam omnis atque dicta sequi soluta exercitationem veritatis quis quidem libero esse.",
+            "from_id": "PeerUser(user_id=3668256423)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-21T09:59:27+00:00",
+            "text": "Looks a bit weird, what is it?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

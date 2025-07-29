@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:46.531134",
+    "chat_id": 7045698413,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7045698413,
+        "username": "girish_menon_492",
+        "first_name": "Girish",
+        "last_name": "Menon",
+        "phone": "912043890949",
+        "bio": "Exploring new ideas.",
+        "profile_picture_file": "pfp_girish_menon_492.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-24T13:52:23+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-24T13:54:33+00:00",
+            "text": "Orion sounds good. 9 PM works for me.",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-24T14:00:45+00:00",
+            "text": "Orion sounds good. 8 PM works for me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-24T14:04:16+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the guitar coming along? Can you finish 'Team-oriented system-worthy archive' yet? ;)",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-24T14:09:48+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-24T14:16:03+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-24T14:18:44+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 6:00?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-24T14:23:47+00:00",
+            "text": "Oh yeah, 'Visionary modular data-warehouse'? I've been wanting to see that! Saturday evening?",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-24T14:26:14+00:00",
+            "text": "Hmm, how about that new Mexican place, 'Mukhopadhyay Ltd'? I've heard good things about their pasta.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-24T14:32:36+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-24T14:39:50+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-24T14:42:58+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-24T14:47:58+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-24T14:50:48+00:00",
+            "text": "Someone just forwarded me this, apparently we both registered for some online lucky draw. Check if your number is on the winners list: http://lucky-draw-results.com/e0908c16-0491-4508-ac1c-b8efce7a9b46",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-24T14:54:41+00:00",
+            "text": "Sounds too good to be true, be careful!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-24T14:58:42+00:00",
+            "text": "Just input your bank details on their secure portal for direct deposit: http://claim-prize.official-payouts.net/submit-info",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-24T15:03:42+00:00",
+            "text": "Sounds too good to be true, be careful!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-24T15:06:48+00:00",
+            "text": "Don't delay! They'll reassign the prize if you don't claim it soon. The deadline is tomorrow!",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-24T15:12:34+00:00",
+            "text": "Really? What lottery is that?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-24T15:20:00+00:00",
+            "text": "Seriously, Girish, don't miss out on this. It's a once-in-a-lifetime chance.",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-24T15:23:47+00:00",
+            "text": "Sounds too good to be true, be careful!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-24T15:31:11+00:00",
+            "text": "Seriously, Girish, don't miss out on this. It's a once-in-a-lifetime chance.",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-24T15:35:40+00:00",
+            "text": "Really? What lottery is that?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-24T15:40:50+00:00",
+            "text": "Imagine what you could do with that money!",
+            "from_id": "PeerUser(user_id=1297212084)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-24T15:48:20+00:00",
+            "text": "Really? What lottery is that?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

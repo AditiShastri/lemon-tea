@@ -1,0 +1,42 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T15:20:00.112233",
+    "chat_id": 1234567890,
+    "chat_type": "User",
+    "user_info": {
+        "id": 1234567890,
+        "username": "vikram_r",
+        "first_name": "Vikram",
+        "last_name": null,
+        "phone": "919666655555",
+        "bio": "Explorer",
+        "profile_picture_file": "pfp_vikram_r.jpg"
+    },
+    "messages": [
+        { "id": 501, "date": "2025-07-29T04:30:15+00:00", "text": "Morning dude", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 502, "date": "2025-07-29T05:15:40+00:00", "text": "Hey man, morning. Sorry, just saw this. Hectic day already.", "from_id": null, "media_file": null },
+        { "id": 503, "date": "2025-07-29T05:16:10+00:00", "text": "No worries, same here. How's the new job treating you?", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 504, "date": "2025-07-29T05:45:22+00:00", "text": "It's good! A lot to learn but the people are cool. Definitely an upgrade.", "from_id": null, "media_file": null },
+        { "id": 505, "date": "2025-07-29T05:46:01+00:00", "text": "That's great to hear, man. Really happy for you.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 506, "date": "2025-07-29T06:30:50+00:00", "text": "Thanks dude. How's things on your end? Still enjoying the WFH life?", "from_id": null, "media_file": null },
+        { "id": 507, "date": "2025-07-29T06:31:30+00:00", "text": "You know it. Pants are optional. It's the dream.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 508, "date": "2025-07-29T06:31:55+00:00", "text": "Hahaha. Living the life.", "from_id": null, "media_file": null },
+        { "id": 509, "date": "2025-07-29T08:00:10+00:00", "text": "Hey, completely random, but did you ever get that new graphics card?", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 510, "date": "2025-07-29T08:15:45+00:00", "text": "Nah, not yet. Still waiting for the prices to come down a bit more. It's painful.", "from_id": null, "media_file": null },
+        { "id": 511, "date": "2025-07-29T08:16:20+00:00", "text": "I feel that. The market is still crazy. Let me know if you see any good deals.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 512, "date": "2025-07-29T08:16:45+00:00", "text": "Will do. You still playing Valorant?", "from_id": null, "media_file": null },
+        { "id": 513, "date": "2025-07-29T08:50:10+00:00", "text": "Yeah, when I get time. We should hop on for a few games this week.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 514, "date": "2025-07-29T09:05:30+00:00", "text": "Definitely. Maybe Thursday night?", "from_id": null, "media_file": null },
+        { "id": 515, "date": "2025-07-29T09:05:55+00:00", "text": "Works for me. I'll hit you up then.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 516, "date": "2025-07-29T09:06:10+00:00", "text": "Sounds good. Alright, gotta run to a meeting. Ttyl.", "from_id": null, "media_file": null },
+        { "id": 517, "date": "2025-07-29T09:06:25+00:00", "text": "Catch you later man.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 518, "date": "2025-07-29T13:00:05+00:00", "text": "Lunch break. Finally.", "from_id": null, "media_file": null },
+        { "id": 519, "date": "2025-07-29T13:00:40+00:00", "text": "Enjoy it. I'm still stuck in spreadsheet hell.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 520, "date": "2025-07-29T13:01:00+00:00", "text": "Ouch. Good luck, soldier.", "from_id": null, "media_file": null },
+        { "id": 521, "date": "2025-07-29T13:01:15+00:00", "text": "I'll need it. 🙏", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 522, "date": "2025-07-29T14:30:00+00:00", "text": "Hey just saw a deal for the 4070 on Amazon, sending you the link.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 523, "date": "2025-07-29T14:30:05+00:00", "text": "[link to a product]", "from_id": "PeerUser(user_id=2345678901)", "media_file": null },
+        { "id": 524, "date": "2025-07-29T14:32:15+00:00", "text": "Whoa, that's actually a pretty good price. Thanks for looking out!", "from_id": null, "media_file": null },
+        { "id": 525, "date": "2025-07-29T14:32:40+00:00", "text": "No problem man. Friends help friends ascend to the PC master race.", "from_id": "PeerUser(user_id=2345678901)", "media_file": null }
+    ]
+}

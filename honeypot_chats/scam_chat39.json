@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:07:21.098725",
+    "chat_id": 2351551557,
+    "chat_type": "User",
+    "user_info": {
+        "id": 2351551557,
+        "username": "nakul_kapadia_689",
+        "first_name": "Nakul",
+        "last_name": "Kapadia",
+        "phone": "918662211068",
+        "bio": "Exploring new ideas.",
+        "profile_picture_file": "pfp_nakul_kapadia_689.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-15T07:49:06+00:00",
+            "text": "Hey Nakul! What's up?",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-15T07:56:50+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-15T08:00:34+00:00",
+            "text": "Hey Nakul! What's up?",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-15T08:05:30+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 7:30?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-15T08:11:59+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-15T08:19:02+00:00",
+            "text": "Orion sounds good. 7 PM works for me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-15T08:21:41+00:00",
+            "text": "Sounds good! Talk soon.",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-15T08:27:57+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-15T08:30:01+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-15T08:32:17+00:00",
+            "text": "Not much, finishing work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-15T08:40:07+00:00",
+            "text": "Got a referral for a high-paying data entry role, no experience needed. Let me know if you're interested, I can share details.",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-15T08:44:29+00:00",
+            "text": "Hmm, I'm pretty settled. But thanks for thinking of me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-15T08:51:18+00:00",
+            "text": "You just need to share your bank details for direct deposit of salary. It's standard procedure for remote work. Here's where to enter it: http://hr-portal.bumb.net/bank-details",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-15T08:57:40+00:00",
+            "text": "Hmm, I'm pretty settled. But thanks for thinking of me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-15T09:02:25+00:00",
+            "text": "Did you fill out the form? The spots are filling up fast! It's a limited opportunity.",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-15T09:07:44+00:00",
+            "text": "Oh really? Tell me more!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-15T09:13:44+00:00",
+            "text": "How was your weekend, Nakul?",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-15T09:20:59+00:00",
+            "text": "Oh really? Tell me more!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-15T09:23:51+00:00",
+            "text": "How was your weekend, Nakul?",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-15T09:29:03+00:00",
+            "text": "Hmm, I'm pretty settled. But thanks for thinking of me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-15T09:36:22+00:00",
+            "text": "How was your weekend, Nakul?",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-15T09:42:26+00:00",
+            "text": "I'm always open to new opportunities. What kind of role is it?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-15T09:49:48+00:00",
+            "text": "The HR team is following up, have you applied?",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-15T09:56:03+00:00",
+            "text": "Oh really? Tell me more!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-15T10:03:59+00:00",
+            "text": "Did you have any questions about the job? I can help.",
+            "from_id": "PeerUser(user_id=1353611104)",
+            "media_file": null
+        }
+    ]
+}

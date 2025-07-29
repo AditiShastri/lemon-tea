@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:45.987795",
+    "chat_id": 3937768404,
+    "chat_type": "User",
+    "user_info": {
+        "id": 3937768404,
+        "username": "hritik_thaker_664",
+        "first_name": "Hritik",
+        "last_name": "Thaker",
+        "phone": "915896301344",
+        "bio": "Just a guy who likes movies and code.",
+        "profile_picture_file": "pfp_hritik_thaker_664.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-17T14:01:21+00:00",
+            "text": "Haha, not even close. My fingers still hate me. It's a deal, I'll book the tickets and see you on Saturday. Gotta run to a meeting now, catch you later!",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-17T14:09:12+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-17T14:15:51+00:00",
+            "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-17T14:23:43+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-17T14:31:24+00:00",
+            "text": "Hmm, how about that new Italian place, 'Kala-Kade'? I've heard good things about their tacos.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-17T14:37:52+00:00",
+            "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-17T14:42:54+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-17T14:45:23+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-17T14:48:10+00:00",
+            "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-17T14:53:09+00:00",
+            "text": "Oh yeah, 'User-friendly optimizing parallelism'? I've been wanting to see that! Saturday evening?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-17T14:57:06+00:00",
+            "text": "7:00 it is. This is turning into a great plan.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-17T15:03:51+00:00",
+            "text": "Hmm, how about that new Mexican place, 'Bhattacharyya-Karan'? I've heard good things about their pasta.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-17T15:11:36+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-17T15:16:08+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-17T15:20:09+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-17T15:27:59+00:00",
+            "text": "Hmm, how about that new Italian place, 'Verma, Venkataraman and Mani'? I've heard good things about their pasta.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-17T15:33:07+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-17T15:38:08+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-17T15:40:12+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-17T15:43:00+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-17T15:46:18+00:00",
+            "text": "Orion sounds good. 9 PM works for me.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-17T15:49:21+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-17T15:51:56+00:00",
+            "text": "Okay, there's a 9:15 PM show at the Tadipatri Mall and an 10:30 PM at Orion. Orion has better seats available.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-17T15:57:49+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-17T16:03:49+00:00",
+            "text": "You're a star! Thanks Hritik.",
+            "from_id": "PeerUser(user_id=2955020953)",
+            "media_file": null
+        }
+    ]
+}

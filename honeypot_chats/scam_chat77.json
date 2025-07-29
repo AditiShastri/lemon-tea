@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:46.268404",
+    "chat_id": 8032493002,
+    "chat_type": "User",
+    "user_info": {
+        "id": 8032493002,
+        "username": "tanish_sani_163",
+        "first_name": "Tanish",
+        "last_name": "Sani",
+        "phone": "919731498572",
+        "bio": "Coffee enthusiast and tech lover.",
+        "profile_picture_file": "pfp_tanish_sani_163.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-22T06:43:25+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-22T06:49:56+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-22T06:52:25+00:00",
+            "text": "Okay, there's a 8:30 PM show at the Kishanganj Mall and an 10:15 PM at Orion. Orion has better seats available.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-22T06:56:40+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-22T07:00:02+00:00",
+            "text": "Hmm, how about that new Mexican place, 'Chaudhry LLC'? I've heard good things about their noodles.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-22T07:07:31+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-22T07:11:49+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-22T07:16:34+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-22T07:19:30+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 7:30?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-22T07:22:30+00:00",
+            "text": "Hmm, how about that new Italian place, 'Amble Ltd'? I've heard good things about their pasta.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-22T07:29:58+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-22T07:32:09+00:00",
+            "text": "You're a star! Thanks Tanish.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-22T07:36:52+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 7:00?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-22T07:43:11+00:00",
+            "text": "Hi! Quick question, are you open to part-time work that pays really well? I found a gig.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-22T07:50:32+00:00",
+            "text": "I'm always open to new opportunities. What kind of role is it?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-22T07:54:47+00:00",
+            "text": "You just need to share your bank details for direct deposit of salary. It's standard procedure for remote work. Here's where to enter it: http://hr-portal.oak.net/bank-details",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-22T08:02:23+00:00",
+            "text": "What are the requirements?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-22T08:09:59+00:00",
+            "text": "Did you fill out the form? The spots are filling up fast! It's a limited opportunity.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-22T08:17:34+00:00",
+            "text": "Oh really? Tell me more!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-22T08:20:54+00:00",
+            "text": "It's a really great opportunity, don't miss it.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-22T08:23:06+00:00",
+            "text": "What are the requirements?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-22T08:28:42+00:00",
+            "text": "How was your weekend, Tanish?",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-22T08:33:45+00:00",
+            "text": "What are the requirements?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-22T08:40:47+00:00",
+            "text": "It's a really great opportunity, don't miss it.",
+            "from_id": "PeerUser(user_id=1524842710)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-22T08:44:16+00:00",
+            "text": "What are the requirements?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

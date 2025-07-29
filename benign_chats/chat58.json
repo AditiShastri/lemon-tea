@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:07:21.039640",
+    "chat_id": 2818524682,
+    "chat_type": "User",
+    "user_info": {
+        "id": 2818524682,
+        "username": "chaitanya_devan_964",
+        "first_name": "Chaitanya",
+        "last_name": "Devan",
+        "phone": "919857242250",
+        "bio": "Just a guy who likes movies and code.",
+        "profile_picture_file": "pfp_chaitanya_devan_964.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-23T07:36:07+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-23T07:42:15+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-23T07:49:23+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-23T07:55:10+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-23T08:02:12+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-23T08:07:34+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-23T08:14:44+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-23T08:20:06+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-23T08:22:49+00:00",
+            "text": "Hmm, how about that new Italian place, 'Doctor-Sinha'? I've heard good things about their tacos.",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-23T08:30:37+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-23T08:38:29+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-23T08:40:56+00:00",
+            "text": "Orion sounds good. 7 PM works for me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-23T08:48:22+00:00",
+            "text": "Orion sounds good. 9 PM works for me.",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-23T08:51:13+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the guitar coming along? Can you play 'Sharable responsive benchmark' yet? ;)",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-23T08:56:49+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-23T09:04:38+00:00",
+            "text": "Haha, not even close. My fingers still hate me. It's a deal, I'll book the tickets and see you on Saturday. Gotta run to a meeting now, catch you later!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-23T09:12:13+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-23T09:15:09+00:00",
+            "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-23T09:20:46+00:00",
+            "text": "Oh yeah, 'Horizontal encompassing website'? I've been wanting to see that! Saturday evening?",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-23T09:24:19+00:00",
+            "text": "You're a star! Thanks Divya.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-23T09:29:10+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-23T09:33:45+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the guitar coming along? Can you master 'De-engineered even-keeled system engine' yet? ;)",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-23T09:35:50+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the painting coming along? Can you master 'Assimilated global parallelism' yet? ;)",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-23T09:40:15+00:00",
+            "text": "Hey Divya! What's up?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-23T09:46:46+00:00",
+            "text": "Sounds good! Talk soon.",
+            "from_id": "PeerUser(user_id=8426572884)",
+            "media_file": null
+        }
+    ]
+}

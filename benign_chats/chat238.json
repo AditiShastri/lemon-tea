@@ -1,0 +1,262 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:10:13.433107",
+    "chat_id": 2482089775,
+    "chat_type": "User",
+    "user_info": {
+        "id": 2482089775,
+        "username": "barkha_dolores67",
+        "first_name": "Barkha",
+        "last_name": null,
+        "phone": "03360210684",
+        "bio": "Harum maiores nesciunt eligendi ab accusantium.",
+        "profile_picture_file": "pfp_barkha_dolores67.jpg"
+    },
+    "messages": [
+        {
+            "id": 23323,
+            "date": "2025-07-28T09:44:59.076492+00:00",
+            "text": "Ugh, what a day.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23324,
+            "date": "2025-07-28T09:52:04.227581+00:00",
+            "text": "Oh no, what happened?",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23325,
+            "date": "2025-07-28T10:04:13.802034+00:00",
+            "text": "My boss, Chasmum, is driving me crazy. The deadline for the content project got moved up.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23326,
+            "date": "2025-07-28T10:06:25.763433+00:00",
+            "text": "No way! That's so unfair.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23327,
+            "date": "2025-07-28T10:17:51.767947+00:00",
+            "text": "Tell me about it. I'll be working all weekend now.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23328,
+            "date": "2025-07-28T10:20:55.448109+00:00",
+            "text": "That sucks. I'm sorry to hear that.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23329,
+            "date": "2025-07-28T10:33:06.761786+00:00",
+            "text": "Thanks for listening. Just needed to vent.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23330,
+            "date": "2025-07-28T10:36:47.980034+00:00",
+            "text": "Anytime. We should grab a drink once you're done with it.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23331,
+            "date": "2025-07-28T10:46:46.343517+00:00",
+            "text": "Definitely. I'm going to need it.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23332,
+            "date": "2025-07-28T10:48:42.496725+00:00",
+            "text": "Hang in there!",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23333,
+            "date": "2025-07-28T10:49:51.721477+00:00",
+            "text": "Power through!",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23334,
+            "date": "2025-07-28T10:52:55.833939+00:00",
+            "text": "Can't believe this.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23335,
+            "date": "2025-07-28T10:58:53.851003+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23336,
+            "date": "2025-07-28T11:00:32.558760+00:00",
+            "text": "Power through!",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23337,
+            "date": "2025-07-28T11:11:08.733862+00:00",
+            "text": "Can't believe this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23338,
+            "date": "2025-07-28T11:15:00.484184+00:00",
+            "text": "I know, right?",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23339,
+            "date": "2025-07-28T11:22:24.508470+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23340,
+            "date": "2025-07-28T11:31:44.671346+00:00",
+            "text": "Can't believe this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23341,
+            "date": "2025-07-28T11:45:39.346268+00:00",
+            "text": "Power through!",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23342,
+            "date": "2025-07-28T11:47:43.946699+00:00",
+            "text": "Can't believe this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23343,
+            "date": "2025-07-28T11:52:35.369127+00:00",
+            "text": "You got this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23344,
+            "date": "2025-07-28T11:55:17.888495+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23345,
+            "date": "2025-07-28T11:56:18.213726+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23346,
+            "date": "2025-07-28T12:10:37.984211+00:00",
+            "text": "Can't believe this.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23347,
+            "date": "2025-07-28T12:24:31.897211+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23348,
+            "date": "2025-07-28T12:32:21.538962+00:00",
+            "text": "Can't believe this.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23349,
+            "date": "2025-07-28T12:37:45.709076+00:00",
+            "text": "Can't believe this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23350,
+            "date": "2025-07-28T12:44:27.822529+00:00",
+            "text": "Power through!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23351,
+            "date": "2025-07-28T12:58:21.272473+00:00",
+            "text": "I know, right?",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23352,
+            "date": "2025-07-28T13:05:12.140586+00:00",
+            "text": "You got this.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23353,
+            "date": "2025-07-28T13:07:11.258712+00:00",
+            "text": "Can't believe this.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23354,
+            "date": "2025-07-28T13:16:34.736407+00:00",
+            "text": "It's just so frustrating.",
+            "from_id": "PeerUser(user_id=6959729314)",
+            "media_file": null
+        },
+        {
+            "id": 23355,
+            "date": "2025-07-28T13:30:21.521183+00:00",
+            "text": "Can't believe this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23356,
+            "date": "2025-07-28T13:32:15.102199+00:00",
+            "text": "You got this.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 23357,
+            "date": "2025-07-28T13:35:58.144115+00:00",
+            "text": "Repudiandae vel quod at asperiores eaque voluptatum.",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

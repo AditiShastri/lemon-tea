@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:45.909323",
+    "chat_id": 7563452095,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7563452095,
+        "username": "ayaan_swaminathan_307",
+        "first_name": "Ayaan",
+        "last_name": "Swaminathan",
+        "phone": "915548202013",
+        "bio": "Just a guy who likes movies and code.",
+        "profile_picture_file": "pfp_ayaan_swaminathan_307.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-17T10:24:40+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the painting coming along? Can you play 'Monitored static product' yet? ;)",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-17T10:32:12+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-17T10:38:16+00:00",
+            "text": "Oh yeah, 'Horizontal systematic ability'? I've been wanting to see that! Saturday evening?",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-17T10:42:15+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-17T10:44:22+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-17T10:51:16+00:00",
+            "text": "Okay, there's a 6:00 PM show at the Ongole Mall and an 8:30 PM at Orion. Orion has better seats available.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-17T10:55:24+00:00",
+            "text": "Definitely! Was just about to suggest that. What are you in the mood for?",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-17T10:59:52+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-17T11:05:25+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-17T11:11:06+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-17T11:13:22+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-17T11:20:13+00:00",
+            "text": "Hmm, how about that new Italian place, 'Subramanian-Arora'? I've heard good things about their pasta.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-17T11:24:29+00:00",
+            "text": "7:00 it is. This is turning into a great plan.",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-17T11:28:45+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-17T11:36:12+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-17T11:43:34+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-17T11:45:43+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-17T11:49:19+00:00",
+            "text": "Hmm, how about that new Italian place, 'Doctor, Iyengar and Jayaraman'? I've heard good things about their noodles.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-17T11:53:10+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 6:00?",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-17T12:00:00+00:00",
+            "text": "Hmm, how about that new Asian place, 'Kala-Contractor'? I've heard good things about their noodles.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-17T12:02:58+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-17T12:04:58+00:00",
+            "text": "YES! I've been wanting to try that. Perfect plan. So dinner around 6:00?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-17T12:11:31+00:00",
+            "text": "Orion sounds good. 10 PM works for me.",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-17T12:17:53+00:00",
+            "text": "Sounds good! Talk soon.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-17T12:20:02+00:00",
+            "text": "Hmm, how about that new Asian place, 'Dora, Johal and Chadha'? I've heard good things about their noodles.",
+            "from_id": "PeerUser(user_id=7419241068)",
+            "media_file": null
+        }
+    ]
+}

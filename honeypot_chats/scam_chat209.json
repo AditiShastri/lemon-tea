@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:46.528528",
+    "chat_id": 1313360720,
+    "chat_type": "User",
+    "user_info": {
+        "id": 1313360720,
+        "username": "darpan_som_693",
+        "first_name": "Darpan",
+        "last_name": "Som",
+        "phone": "919841919752",
+        "bio": "Coffee enthusiast and tech lover.",
+        "profile_picture_file": "pfp_darpan_som_693.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-23T07:18:23+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-23T07:20:56+00:00",
+            "text": "I know, right? The last time was that disastrous karaoke night haha.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-23T07:24:49+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-23T07:27:09+00:00",
+            "text": "Okay, there's a 8:15 PM show at the Gudivada Mall and an 10:00 PM at Orion. Orion has better seats available.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-23T07:32:21+00:00",
+            "text": "Hmm, how about that new Mexican place, 'Sankar, Vyas and Guha'? I've heard good things about their pasta.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-23T07:36:21+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-23T07:38:31+00:00",
+            "text": "No problem! :) Hey, want to grab dinner before the movie?",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-23T07:42:07+00:00",
+            "text": "Was thinking of catching that new comedy movie. Interested? ??",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-23T07:49:46+00:00",
+            "text": "Perfect! Let's do it. I'll check the showtimes. ??",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-23T07:52:19+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-23T07:57:15+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-23T08:04:33+00:00",
+            "text": "Was thinking of catching that new action movie. Interested? ??",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-23T08:08:03+00:00",
+            "text": "You're a star! Thanks Darpan.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-23T08:11:59+00:00",
+            "text": "Oh yeah, 'Seamless neutral application'? I've been wanting to see that! Saturday evening?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-23T08:15:27+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-23T08:17:48+00:00",
+            "text": "Not much, finishing work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-23T08:22:51+00:00",
+            "text": "Got a referral for a high-paying data entry role, no experience needed. Let me know if you're interested, I can share details.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-23T08:29:32+00:00",
+            "text": "Oh really? Tell me more!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-23T08:36:24+00:00",
+            "text": "They're hiring fast, so you need to apply quickly. Just fill out this brief form for their HR: http://careers.apply-now.info/feeling-rule-begin",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-23T08:43:47+00:00",
+            "text": "I'm always open to new opportunities. What kind of role is it?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-23T08:51:27+00:00",
+            "text": "Did you fill out the form? The spots are filling up fast! It's a limited opportunity.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-23T08:54:35+00:00",
+            "text": "I'm always open to new opportunities. What kind of role is it?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-23T09:01:39+00:00",
+            "text": "Did you have any questions about the job? I can help.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-23T09:07:58+00:00",
+            "text": "Hmm, I'm pretty settled. But thanks for thinking of me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-23T09:13:06+00:00",
+            "text": "Did you have any questions about the job? I can help.",
+            "from_id": "PeerUser(user_id=4524324438)",
+            "media_file": null
+        }
+    ]
+}

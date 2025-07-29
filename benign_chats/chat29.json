@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:07:20.970084",
+    "chat_id": 1291928878,
+    "chat_type": "User",
+    "user_info": {
+        "id": 1291928878,
+        "username": "karan_nori_392",
+        "first_name": "Karan",
+        "last_name": "Nori",
+        "phone": "915842156428",
+        "bio": "Exploring new ideas.",
+        "profile_picture_file": "pfp_karan_nori_392.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-27T13:15:14+00:00",
+            "text": "Hey Vasana! What's up?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-27T13:22:42+00:00",
+            "text": "Hey! Not much, just finishing up work. You?",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-27T13:28:11+00:00",
+            "text": "Haha please don't remind me of my singing. How's that new project at work you were telling me about?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-27T13:35:33+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-27T13:40:11+00:00",
+            "text": "Sounds good! Talk soon.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-27T13:48:10+00:00",
+            "text": "Okay, there's a 9:15 PM show at the Ongole Mall and an 10:30 PM at Orion. Orion has better seats available.",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-27T13:52:26+00:00",
+            "text": "Definitely! Was just about to suggest that. What are you in the mood for?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-27T13:58:33+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-27T14:05:35+00:00",
+            "text": "Oh yeah, 'Ameliorated solution-oriented standardization'? I've been wanting to see that! Saturday evening?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-27T14:12:05+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-27T14:19:25+00:00",
+            "text": "I'm easy. You choose. Something near the mall maybe?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-27T14:26:17+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-27T14:30:28+00:00",
+            "text": "Oh yeah, 'Multi-tiered content-based methodology'? I've been wanting to see that! Saturday evening?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-27T14:38:11+00:00",
+            "text": "Awesome, thanks! Let me know what you find.",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-27T14:41:59+00:00",
+            "text": "Orion sounds good. 8 PM works for me.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-27T14:47:08+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-27T14:50:57+00:00",
+            "text": "Great. Should I book or do you want to?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-27T14:55:24+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-27T14:59:01+00:00",
+            "text": "Definitely! Was just about to suggest that. What are you in the mood for?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-27T15:01:49+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-27T15:08:28+00:00",
+            "text": "Haha, not even close. My fingers still hate me. It's a deal, I'll book the tickets and see you on Saturday. Gotta run to a meeting now, catch you later!",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-27T15:16:17+00:00",
+            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-27T15:22:26+00:00",
+            "text": "For sure! It's been a while since we hung out properly.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-27T15:25:58+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": "PeerUser(user_id=2367236775)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-27T15:29:41+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

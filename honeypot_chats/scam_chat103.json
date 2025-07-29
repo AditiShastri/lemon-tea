@@ -1,0 +1,192 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-29T16:08:46.318002",
+    "chat_id": 3855513877,
+    "chat_type": "User",
+    "user_info": {
+        "id": 3855513877,
+        "username": "arjun_mander_297",
+        "first_name": "Arjun",
+        "last_name": "Mander",
+        "phone": "910021970075",
+        "bio": "Learning and growing every day!",
+        "profile_picture_file": "pfp_arjun_mander_297.jpg"
+    },
+    "messages": [
+        {
+            "id": 1501,
+            "date": "2025-07-22T13:34:38+00:00",
+            "text": "Oh, it's going really well actually! Super busy but the team is great. Finally feels like we're making progress.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1502,
+            "date": "2025-07-22T13:40:18+00:00",
+            "text": "Oh yeah, 'Secured optimal ability'? I've been wanting to see that! Saturday evening?",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1503,
+            "date": "2025-07-22T13:48:10+00:00",
+            "text": "Same here. Any plans for the weekend?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1504,
+            "date": "2025-07-22T13:55:57+00:00",
+            "text": "Tell me about it. Anyway, enough work talk! How's the guitar coming along? Can you finish 'Multi-layered multi-tasking framework' yet? ;)",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1505,
+            "date": "2025-07-22T13:59:24+00:00",
+            "text": "Hmm, how about that new Asian place, 'Saraf-Baral'? I've heard good things about their noodles.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1506,
+            "date": "2025-07-22T14:06:01+00:00",
+            "text": "Okay, there's a 6:15 PM show at the Dehradun Mall and an 9:45 PM at Orion. Orion has better seats available.",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1507,
+            "date": "2025-07-22T14:10:45+00:00",
+            "text": "Not much, finishing work. You?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1508,
+            "date": "2025-07-22T14:14:45+00:00",
+            "text": "Hey Arjun! You won't believe the returns I'm getting on this crypto platform. You should check it out, it's totally legit!",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1509,
+            "date": "2025-07-22T14:18:11+00:00",
+            "text": "Crypto, huh? I'm not really into that.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1510,
+            "date": "2025-07-22T14:20:58+00:00",
+            "text": "You can start with as little as Rs. 1000. I can guide you through the initial setup if you like.",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1511,
+            "date": "2025-07-22T14:28:32+00:00",
+            "text": "Wow, that's great! How does it work?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1512,
+            "date": "2025-07-22T14:31:25+00:00",
+            "text": "Why haven't you started yet? You're missing out on daily profits! My balance just went up by 10% today.",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1513,
+            "date": "2025-07-22T14:39:16+00:00",
+            "text": "Wow, that's great! How does it work?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1514,
+            "date": "2025-07-22T14:42:50+00:00",
+            "text": "How's your day, Arjun? Just checking in.",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1515,
+            "date": "2025-07-22T14:50:12+00:00",
+            "text": "Wow, that's great! How does it work?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1516,
+            "date": "2025-07-22T14:52:13+00:00",
+            "text": "My profits today were amazing, can't believe I didn't start sooner!",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1517,
+            "date": "2025-07-22T14:57:40+00:00",
+            "text": "Sounds interesting, but I'm careful with investments.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1518,
+            "date": "2025-07-22T15:01:38+00:00",
+            "text": "Busy day for me. Still thinking about that investment though...",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1519,
+            "date": "2025-07-22T15:08:28+00:00",
+            "text": "Is it legitimate? I've heard about many scams.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1520,
+            "date": "2025-07-22T15:10:32+00:00",
+            "text": "My profits today were amazing, can't believe I didn't start sooner!",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1521,
+            "date": "2025-07-22T15:14:10+00:00",
+            "text": "Crypto, huh? I'm not really into that.",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1522,
+            "date": "2025-07-22T15:19:58+00:00",
+            "text": "Busy day for me. Still thinking about that investment though...",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1523,
+            "date": "2025-07-22T15:24:51+00:00",
+            "text": "Wow, that's great! How does it work?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1524,
+            "date": "2025-07-22T15:29:21+00:00",
+            "text": "My profits today were amazing, can't believe I didn't start sooner!",
+            "from_id": "PeerUser(user_id=2062922966)",
+            "media_file": null
+        },
+        {
+            "id": 1525,
+            "date": "2025-07-22T15:35:46+00:00",
+            "text": "Wow, that's great! How does it work?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}
