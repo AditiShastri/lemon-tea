@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.433721",
+    "chat_id": 7170632424,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7170632424,
+        "username": "randallgreene",
+        "first_name": "Adrian",
+        "last_name": null,
+        "phone": "3244510762268",
+        "bio": null,
+        "profile_picture_file": "pfp_gomez_supportteam.jpg"
+    },
+    "messages": [
+        {
+            "id": 4836,
+            "date": "2025-07-30T05:19:51+00:00",
+            "text": "Hi, I'm from Netflix\u2019s influencer team \u2013 quick question? \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7550017012)",
+            "media_file": null
+        },
+        {
+            "id": 2494,
+            "date": "2025-07-30T05:20:23+00:00",
+            "text": "You\u2019d do great as a creator btw \ud83d\udcaf \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7550017012)",
+            "media_file": null
+        },
+        {
+            "id": 2559,
+            "date": "2025-07-30T05:21:13+00:00",
+            "text": "Just promise you\u2019ll keep this secret? \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7550017012)",
+            "media_file": null
+        },
+        {
+            "id": 4496,
+            "date": "2025-07-30T05:21:18+00:00",
+            "text": "Click here \ud83d\udc49 http://instafameboost.io \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7550017012)",
+            "media_file": null
+        },
+        {
+            "id": 2276,
+            "date": "2025-07-30T05:21:53+00:00",
+            "text": "Click or regret. I won\u2019t repeat myself \u26a0\ufe0f \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7550017012)",
+            "media_file": null
+        },
+        {
+            "id": 9510,
+            "date": "2025-07-30T05:22:12+00:00",
+            "text": "okay?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.428753",
+    "chat_id": 6986692966,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6986692966,
+        "username": "michael98",
+        "first_name": "Jason",
+        "last_name": null,
+        "phone": "3158514936899",
+        "bio": null,
+        "profile_picture_file": "pfp_crypto_alpha_wave.jpg"
+    },
+    "messages": [
+        {
+            "id": 8389,
+            "date": "2025-07-30T01:11:25+00:00",
+            "text": "You just won an iPhone giveaway \ud83c\udf89 Check this out \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7425134125)",
+            "media_file": null
+        },
+        {
+            "id": 1878,
+            "date": "2025-07-30T01:12:09+00:00",
+            "text": "Not tryna flirt but you\u2019re attractive \ud83d\ude05 \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7425134125)",
+            "media_file": null
+        },
+        {
+            "id": 6882,
+            "date": "2025-07-30T01:13:09+00:00",
+            "text": "Just one click and you'll understand \ud83d\udd25 \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7425134125)",
+            "media_file": null
+        },
+        {
+            "id": 8939,
+            "date": "2025-07-30T01:13:14+00:00",
+            "text": "Click here \ud83d\udc49 http://wallet-repair.xyz \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7425134125)",
+            "media_file": null
+        },
+        {
+            "id": 4196,
+            "date": "2025-07-30T01:13:27+00:00",
+            "text": "You said you were different. Prove it. \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7425134125)",
+            "media_file": null
+        }
+    ]
+}

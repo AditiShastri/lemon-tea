@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.337101",
+    "chat_id": 6960260647,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6960260647,
+        "username": "ddavis",
+        "first_name": "Michelle",
+        "last_name": null,
+        "phone": "2691669784801",
+        "bio": null,
+        "profile_picture_file": "pfp_insta_cashdrop2025.jpg"
+    },
+    "messages": [
+        {
+            "id": 9883,
+            "date": "2025-07-30T00:37:52+00:00",
+            "text": "Hello from Binance support, urgent wallet issue \u26a0\ufe0f \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7480132677)",
+            "media_file": null
+        },
+        {
+            "id": 6138,
+            "date": "2025-07-30T00:38:00+00:00",
+            "text": "Cute + smart? Jackpot \ud83d\udd25 \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7480132677)",
+            "media_file": null
+        },
+        {
+            "id": 1821,
+            "date": "2025-07-30T00:38:08+00:00",
+            "text": "Just one click and you'll understand \ud83d\udd25 \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7480132677)",
+            "media_file": null
+        },
+        {
+            "id": 8811,
+            "date": "2025-07-30T00:38:50+00:00",
+            "text": "Click here \ud83d\udc49 https://exclusivebetaapp.com \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7480132677)",
+            "media_file": null
+        },
+        {
+            "id": 9701,
+            "date": "2025-07-30T00:39:27+00:00",
+            "text": "You ignoring me now? Typical. \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7480132677)",
+            "media_file": null
+        },
+        {
+            "id": 2312,
+            "date": "2025-07-30T00:40:04+00:00",
+            "text": "what is this?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

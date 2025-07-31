@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.441180",
+    "chat_id": 7135365419,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7135365419,
+        "username": "laura90",
+        "first_name": "Michael",
+        "last_name": null,
+        "phone": "4770054119986",
+        "bio": null,
+        "profile_picture_file": "pfp_realbollywoodstar.jpg"
+    },
+    "messages": [
+        {
+            "id": 5625,
+            "date": "2025-07-30T03:04:34+00:00",
+            "text": "Hey! I saw your reel and thought we should talk \ud83d\udd25 \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7407562208)",
+            "media_file": null
+        },
+        {
+            "id": 6090,
+            "date": "2025-07-30T03:05:28+00:00",
+            "text": "Cute + smart? Jackpot \ud83d\udd25 \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7407562208)",
+            "media_file": null
+        },
+        {
+            "id": 2415,
+            "date": "2025-07-30T03:05:53+00:00",
+            "text": "Just one click and you'll understand \ud83d\udd25 \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7407562208)",
+            "media_file": null
+        },
+        {
+            "id": 8483,
+            "date": "2025-07-30T03:06:33+00:00",
+            "text": "Click here \ud83d\udc49 https://tinyurl.com/claim-now-prize \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7407562208)",
+            "media_file": null
+        },
+        {
+            "id": 7044,
+            "date": "2025-07-30T03:06:38+00:00",
+            "text": "Last 5 mins. After that, the link expires \u23f3 \ud83d\udc49\ud83d\udc48",
+            "from_id": "PeerUser(user_id=7407562208)",
+            "media_file": null
+        },
+        {
+            "id": 5979,
+            "date": "2025-07-30T03:07:19+00:00",
+            "text": "who are you?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

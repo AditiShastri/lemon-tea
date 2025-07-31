@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.366552",
+    "chat_id": 6871236851,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6871236851,
+        "username": "lindadominguez",
+        "first_name": "Steven",
+        "last_name": null,
+        "phone": "1727889579868",
+        "bio": null,
+        "profile_picture_file": "pfp_starstruck.agency.jpg"
+    },
+    "messages": [
+        {
+            "id": 7086,
+            "date": "2025-07-30T04:24:57+00:00",
+            "text": "This is Rahul from Google Career Accelerator \u2013 selected? \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7588424745)",
+            "media_file": null
+        },
+        {
+            "id": 4830,
+            "date": "2025-07-30T04:25:08+00:00",
+            "text": "You seem so chill. Rare these days \ud83d\ude0c \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7588424745)",
+            "media_file": null
+        },
+        {
+            "id": 1410,
+            "date": "2025-07-30T04:25:43+00:00",
+            "text": "Just promise you\u2019ll keep this secret? \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7588424745)",
+            "media_file": null
+        },
+        {
+            "id": 6374,
+            "date": "2025-07-30T04:26:27+00:00",
+            "text": "Click here \ud83d\udc49 https://bit.ly/freedrop100 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7588424745)",
+            "media_file": null
+        },
+        {
+            "id": 4626,
+            "date": "2025-07-30T04:27:11+00:00",
+            "text": "Just enter your UPI ID. No risk, I swear \ud83d\udcb8 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7588424745)",
+            "media_file": null
+        },
+        {
+            "id": 8606,
+            "date": "2025-07-30T04:27:56+00:00",
+            "text": "??",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

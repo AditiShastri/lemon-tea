@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.417333",
+    "chat_id": 6838750997,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6838750997,
+        "username": "cwilson",
+        "first_name": "Sophia",
+        "last_name": null,
+        "phone": "7113826758692",
+        "bio": null,
+        "profile_picture_file": "pfp_gomez_supportteam.jpg"
+    },
+    "messages": [
+        {
+            "id": 9777,
+            "date": "2025-07-30T04:46:22+00:00",
+            "text": "I'm recruiting for a private crypto alpha group \ud83d\udcb0 \u23f3",
+            "from_id": "PeerUser(user_id=7410062312)",
+            "media_file": null
+        },
+        {
+            "id": 1280,
+            "date": "2025-07-30T04:46:45+00:00",
+            "text": "Not tryna flirt but you\u2019re attractive \ud83d\ude05 \u23f3",
+            "from_id": "PeerUser(user_id=7410062312)",
+            "media_file": null
+        },
+        {
+            "id": 8054,
+            "date": "2025-07-30T04:47:22+00:00",
+            "text": "Idk why, but I really trust you already \ud83d\ude33 \u23f3",
+            "from_id": "PeerUser(user_id=7410062312)",
+            "media_file": null
+        },
+        {
+            "id": 3937,
+            "date": "2025-07-30T04:48:18+00:00",
+            "text": "Click here \ud83d\udc49 https://bit.ly/freedrop100 \u23f3",
+            "from_id": "PeerUser(user_id=7410062312)",
+            "media_file": null
+        },
+        {
+            "id": 2578,
+            "date": "2025-07-30T04:48:29+00:00",
+            "text": "Just enter your UPI ID. No risk, I swear \ud83d\udcb8 \u23f3",
+            "from_id": "PeerUser(user_id=7410062312)",
+            "media_file": null
+        },
+        {
+            "id": 4144,
+            "date": "2025-07-30T04:48:49+00:00",
+            "text": "who are you?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.379856",
+    "chat_id": 7027177449,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7027177449,
+        "username": "umarshall",
+        "first_name": "Brittany",
+        "last_name": null,
+        "phone": "3147379965075",
+        "bio": null,
+        "profile_picture_file": "pfp_crypto_alpha_wave.jpg"
+    },
+    "messages": [
+        {
+            "id": 5703,
+            "date": "2025-07-30T00:23:58+00:00",
+            "text": "Hey, I\u2019m Selena Gomez. Don\u2019t laugh \ud83d\ude02 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7477997995)",
+            "media_file": null
+        },
+        {
+            "id": 2479,
+            "date": "2025-07-30T00:24:07+00:00",
+            "text": "You\u2019re giving main character energy \ud83e\uddff \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7477997995)",
+            "media_file": null
+        },
+        {
+            "id": 9307,
+            "date": "2025-07-30T00:24:51+00:00",
+            "text": "Just one click and you'll understand \ud83d\udd25 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7477997995)",
+            "media_file": null
+        },
+        {
+            "id": 8581,
+            "date": "2025-07-30T00:25:20+00:00",
+            "text": "Click here \ud83d\udc49 http://instafameboost.io \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7477997995)",
+            "media_file": null
+        },
+        {
+            "id": 1672,
+            "date": "2025-07-30T00:26:02+00:00",
+            "text": "Click or regret. I won\u2019t repeat myself \u26a0\ufe0f \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7477997995)",
+            "media_file": null
+        },
+        {
+            "id": 4084,
+            "date": "2025-07-30T00:26:58+00:00",
+            "text": "who are you?",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 9214,
+            "date": "2025-07-30T00:27:33+00:00",
+            "text": "Don\u2019t miss this chance \ud83d\udcb0",
+            "from_id": "PeerUser(user_id=7477997995)",
+            "media_file": null
+        }
+    ]
+}

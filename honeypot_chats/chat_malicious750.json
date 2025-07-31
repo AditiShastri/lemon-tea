@@ -1,0 +1,66 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.377115",
+    "chat_id": 6924451076,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6924451076,
+        "username": "stricklandfrank",
+        "first_name": "Larry",
+        "last_name": null,
+        "phone": "4966319314919",
+        "bio": null,
+        "profile_picture_file": "pfp_realbollywoodstar.jpg"
+    },
+    "messages": [
+        {
+            "id": 1693,
+            "date": "2025-07-30T00:26:00+00:00",
+            "text": "You just won an iPhone giveaway \ud83c\udf89 Check this out \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7503690034)",
+            "media_file": null
+        },
+        {
+            "id": 1307,
+            "date": "2025-07-30T00:26:32+00:00",
+            "text": "Wish I met someone like you sooner \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7503690034)",
+            "media_file": null
+        },
+        {
+            "id": 2275,
+            "date": "2025-07-30T00:27:06+00:00",
+            "text": "I feel something real here \ud83d\ude33\ud83d\udc49\ud83d\udc48 \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7503690034)",
+            "media_file": null
+        },
+        {
+            "id": 6129,
+            "date": "2025-07-30T00:28:06+00:00",
+            "text": "Click here \ud83d\udc49 http://verifywallet-safe.shop \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7503690034)",
+            "media_file": null
+        },
+        {
+            "id": 8033,
+            "date": "2025-07-30T00:28:47+00:00",
+            "text": "Just enter your UPI ID. No risk, I swear \ud83d\udcb8 \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7503690034)",
+            "media_file": null
+        },
+        {
+            "id": 7843,
+            "date": "2025-07-30T00:29:37+00:00",
+            "text": "not interested",
+            "from_id": null,
+            "media_file": null
+        },
+        {
+            "id": 1341,
+            "date": "2025-07-30T00:30:07+00:00",
+            "text": "Don\u2019t miss this chance \ud83d\udcb0",
+            "from_id": "PeerUser(user_id=7503690034)",
+            "media_file": null
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.354796",
+    "chat_id": 6940084271,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6940084271,
+        "username": "waltersmaria",
+        "first_name": "Bradley",
+        "last_name": null,
+        "phone": "2427868011280",
+        "bio": null,
+        "profile_picture_file": "pfp_starstruck.agency.jpg"
+    },
+    "messages": [
+        {
+            "id": 8827,
+            "date": "2025-07-30T00:17:00+00:00",
+            "text": "Hey, I\u2019m Selena Gomez. Don\u2019t laugh \ud83d\ude02 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7434352408)",
+            "media_file": null
+        },
+        {
+            "id": 2070,
+            "date": "2025-07-30T00:17:12+00:00",
+            "text": "How are you still single?! \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7434352408)",
+            "media_file": null
+        },
+        {
+            "id": 9056,
+            "date": "2025-07-30T00:17:42+00:00",
+            "text": "Just promise you\u2019ll keep this secret? \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7434352408)",
+            "media_file": null
+        },
+        {
+            "id": 1878,
+            "date": "2025-07-30T00:17:51+00:00",
+            "text": "Click here \ud83d\udc49 http://test-access-pass.live \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7434352408)",
+            "media_file": null
+        },
+        {
+            "id": 3444,
+            "date": "2025-07-30T00:18:05+00:00",
+            "text": "You ignoring me now? Typical. \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7434352408)",
+            "media_file": null
+        }
+    ]
+}

@@ -1,42 +1,192 @@
 {
-    "exported_by": "Telegram Exporter Script",
-    "export_date": "2025-07-29T16:10:20.987654",
-    "chat_id": 5893543402,
-    "chat_type": "User",
-    "user_info": {
-      "id": 5893543402,
-      "username": "rajesh_p",
-      "first_name": "Rajesh",
-      "last_name": null,
-      "phone": "919111122222",
-      "bio": "Engineer",
-      "profile_picture_file": "pfp_rajesh_p.jpg"
+  "exported_by": "Telegram Exporter Script",
+  "export_date": "2025-07-29T16:10:20.987654",
+  "chat_id": 5893543402,
+  "chat_type": "User",
+  "user_info": {
+    "id": 5893543402,
+    "username": "rajesh_p",
+    "first_name": "Rajesh",
+    "last_name": null,
+    "phone": "919111122222",
+    "bio": "Engineer",
+    "profile_picture_file": "pfp_rajesh_p.jpg"
+  },
+  "messages": [
+    {
+      "id": 4001,
+      "date": "2025-07-26T11:20:45+00:00",
+      "text": "Hi Neha, the shipment is confirmed. My uncle gave me another great crypto tip, we should discuss it tonight.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
     },
-    "messages": [
-      { "id": 4001, "date": "2025-07-26T11:20:45+00:00", "text": "Hi Neha, the shipment is confirmed. My uncle gave me another great crypto tip, we should discuss it tonight.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4002, "date": "2025-07-26T11:25:10+00:00", "text": "Sorry, I think you have the wrong number. I'm not Neha.", "from_id": null, "media_file": null },
-      { "id": 4003, "date": "2025-07-26T11:25:20+00:00", "text": "Oh my goodness, I am so sorry! My apologies. It seems fate has made us meet. I'm Sophia.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4004, "date": "2025-07-26T11:26:00+00:00", "text": "No problem. I'm Rajesh.", "from_id": null, "media_file": null },
-      { "id": 4005, "date": "2025-07-26T11:26:15+00:00", "text": "A strong name! Well, it was nice to accidentally meet you, Rajesh. I am a wine trader from Singapore, currently enjoying a vacation in Bali.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4006, "date": "2025-07-27T12:00:05+00:00", "text": "Just closed another amazing trade on the BTC/ETH pair. This vacation is paying for itself! How is your day, Rajesh?", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4007, "date": "2025-07-27T12:03:25+00:00", "text": "My day is fine, just work. You trade crypto?", "from_id": null, "media_file": null },
-      { "id": 4008, "date": "2025-07-27T12:03:35+00:00", "text": "Oh yes, it's my main passion. My uncle is a financial analyst and he gives me insider information. The returns are incredible. It has given me financial freedom.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4009, "date": "2025-07-27T12:05:15+00:00", "text": "That sounds nice. I've heard it's very risky.", "from_id": null, "media_file": null },
-      { "id": 4010, "date": "2025-07-27T12:05:30+00:00", "text": "Not if you have the right information! It's only risky for the uninformed. My uncle's analysis is never wrong.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4011, "date": "2025-07-28T14:10:00+00:00", "text": "You seem like a smart and hardworking man, Rajesh. You deserve to enjoy life more. Have you ever thought about investing?", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4012, "date": "2025-07-28T14:12:30+00:00", "text": "A little, in mutual funds. Nothing major.", "from_id": null, "media_file": null },
-      { "id": 4013, "date": "2025-07-28T14:12:45+00:00", "text": "Mutual funds are so slow. Listen, my uncle just told me about a new coin that is about to explode. It's a secret, only for a few investors.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4014, "date": "2025-07-28T14:13:00+00:00", "text": "Because you have been so kind to me, a stranger, I want to share this opportunity with you. I can guide you.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4015, "date": "2025-07-28T14:15:20+00:00", "text": "I don't know anything about crypto trading.", "from_id": null, "media_file": null },
-      { "id": 4016, "date": "2025-07-28T14:15:30+00:00", "text": "You don't need to! I will tell you exactly what to do. It's foolproof. You just need to download this trading app, CoinMaxPro. It is the platform we use.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4017, "date": "2025-07-28T14:17:55+00:00", "text": "What kind of money do you need to start?", "from_id": null, "media_file": null },
-      { "id": 4018, "date": "2025-07-28T14:18:05+00:00", "text": "You can start with a small amount, maybe $500 (around ₹40,000) to see how it works. You will see the profit in hours. But we must act now, the price is rising as we speak.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4019, "date": "2025-07-28T14:20:10+00:00", "text": "Let me think about it.", "from_id": null, "media_file": null },
-      { "id": 4020, "date": "2025-07-28T14:20:20+00:00", "text": "Rajesh, opportunity waits for no one. This is a life-changing chance. Trust me. Let's do this together. I will walk you through setting up the account right now.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4021, "date": "2025-07-28T14:25:00+00:00", "text": "Okay... where do I find this app?", "from_id": null, "media_file": null },
-      { "id": 4022, "date": "2025-07-28T14:25:08+00:00", "text": "Excellent! I am sending you the link. Use my referral code for a special bonus. You are making the best decision of your life.", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4023, "date": "2025-07-29T10:00:15+00:00", "text": "Hi Rajesh, did you deposit the funds? The signal is very strong today, we must buy immediately!", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4024, "date": "2025-07-29T10:00:25+00:00", "text": "The price is going up! Quick!", "from_id": "PeerUser(user_id=5186126720)", "media_file": null },
-      { "id": 4025, "date": "2025-07-29T10:02:00+00:00", "text": "Doing it now.", "from_id": null, "media_file": null }
-    ]
+    {
+      "id": 4002,
+      "date": "2025-07-26T11:25:10+00:00",
+      "text": "Sorry, I think you have the wrong number. I'm not Neha.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4003,
+      "date": "2025-07-26T11:25:20+00:00",
+      "text": "Oh my goodness, I am so sorry! My apologies. It seems fate has made us meet. I'm Sophia.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4004,
+      "date": "2025-07-26T11:26:00+00:00",
+      "text": "No problem. I'm Rajesh.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4005,
+      "date": "2025-07-26T11:26:15+00:00",
+      "text": "A strong name! Well, it was nice to accidentally meet you, Rajesh. I am a wine trader from Singapore, currently enjoying a vacation in Bali.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4006,
+      "date": "2025-07-27T12:00:05+00:00",
+      "text": "Just closed another amazing trade on the BTC/ETH pair. This vacation is paying for itself! How is your day, Rajesh?",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4007,
+      "date": "2025-07-27T12:03:25+00:00",
+      "text": "My day is fine, just work. You trade crypto?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4008,
+      "date": "2025-07-27T12:03:35+00:00",
+      "text": "Oh yes, it's my main passion. My uncle is a financial analyst and he gives me insider information. The returns are incredible. It has given me financial freedom.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4009,
+      "date": "2025-07-27T12:05:15+00:00",
+      "text": "That sounds nice. I've heard it's very risky.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4010,
+      "date": "2025-07-27T12:05:30+00:00",
+      "text": "Not if you have the right information! It's only risky for the uninformed. My uncle's analysis is never wrong.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4011,
+      "date": "2025-07-28T14:10:00+00:00",
+      "text": "You seem like a smart and hardworking man, Rajesh. You deserve to enjoy life more. Have you ever thought about investing?",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4012,
+      "date": "2025-07-28T14:12:30+00:00",
+      "text": "A little, in mutual funds. Nothing major.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4013,
+      "date": "2025-07-28T14:12:45+00:00",
+      "text": "Mutual funds are so slow. Listen, my uncle just told me about a new coin that is about to explode. It's a secret, only for a few investors.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4014,
+      "date": "2025-07-28T14:13:00+00:00",
+      "text": "Because you have been so kind to me, a stranger, I want to share this opportunity with you. I can guide you.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4015,
+      "date": "2025-07-28T14:15:20+00:00",
+      "text": "I don't know anything about crypto trading.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4016,
+      "date": "2025-07-28T14:15:30+00:00",
+      "text": "You don't need to! I will tell you exactly what to do. It's foolproof. You just need to download this trading app, CoinMaxPro. It is the platform we use.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4017,
+      "date": "2025-07-28T14:17:55+00:00",
+      "text": "What kind of money do you need to start?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4018,
+      "date": "2025-07-28T14:18:05+00:00",
+      "text": "You can start with a small amount, maybe $500 (around \u20b940,000) to see how it works. You will see the profit in hours. But we must act now, the price is rising as we speak.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4019,
+      "date": "2025-07-28T14:20:10+00:00",
+      "text": "Let me think about it.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4020,
+      "date": "2025-07-28T14:20:20+00:00",
+      "text": "Rajesh, opportunity waits for no one. This is a life-changing chance. Trust me. Let's do this together. I will walk you through setting up the account right now.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4021,
+      "date": "2025-07-28T14:25:00+00:00",
+      "text": "Okay... where do I find this app?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 4022,
+      "date": "2025-07-28T14:25:08+00:00",
+      "text": "Excellent! I am sending you the link. Use my referral code for a special bonus. You are making the best decision of your life.",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4023,
+      "date": "2025-07-29T10:00:15+00:00",
+      "text": "Hi Rajesh, did you deposit the funds? The signal is very strong today, we must buy immediately!",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4024,
+      "date": "2025-07-29T10:00:25+00:00",
+      "text": "The price is going up! Quick!",
+      "from_id": "PeerUser(user_id=7450205495)",
+      "media_file": null
+    },
+    {
+      "id": 4025,
+      "date": "2025-07-29T10:02:00+00:00",
+      "text": "Doing it now.",
+      "from_id": null,
+      "media_file": null
+    }
+  ]
 }

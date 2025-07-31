@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.361334",
+    "chat_id": 7099727875,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7099727875,
+        "username": "michaeljones",
+        "first_name": "Elizabeth",
+        "last_name": null,
+        "phone": "9514846564823",
+        "bio": null,
+        "profile_picture_file": "pfp_binancewallet_alert.jpg"
+    },
+    "messages": [
+        {
+            "id": 7730,
+            "date": "2025-07-30T04:24:19+00:00",
+            "text": "Hey! I saw your reel and thought we should talk \ud83d\udd25 \u26a0\ufe0f",
+            "from_id": "PeerUser(user_id=7414658404)",
+            "media_file": null
+        },
+        {
+            "id": 6213,
+            "date": "2025-07-30T04:24:26+00:00",
+            "text": "How are you still single?! \u26a0\ufe0f",
+            "from_id": "PeerUser(user_id=7414658404)",
+            "media_file": null
+        },
+        {
+            "id": 8749,
+            "date": "2025-07-30T04:25:18+00:00",
+            "text": "Just one click and you'll understand \ud83d\udd25 \u26a0\ufe0f",
+            "from_id": "PeerUser(user_id=7414658404)",
+            "media_file": null
+        },
+        {
+            "id": 7246,
+            "date": "2025-07-30T04:26:08+00:00",
+            "text": "Click here \ud83d\udc49 https://fastjob-india.com \u26a0\ufe0f",
+            "from_id": "PeerUser(user_id=7414658404)",
+            "media_file": null
+        },
+        {
+            "id": 3492,
+            "date": "2025-07-30T04:26:37+00:00",
+            "text": "I trusted you with this. Please respond \ud83d\ude22 \u26a0\ufe0f",
+            "from_id": "PeerUser(user_id=7414658404)",
+            "media_file": null
+        },
+        {
+            "id": 3068,
+            "date": "2025-07-30T04:26:44+00:00",
+            "text": "what is this?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.430207",
+    "chat_id": 6834043842,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6834043842,
+        "username": "lynchdiane",
+        "first_name": "Heather",
+        "last_name": null,
+        "phone": "2445502296120",
+        "bio": null,
+        "profile_picture_file": "pfp_upijobs_payouts.jpg"
+    },
+    "messages": [
+        {
+            "id": 7010,
+            "date": "2025-07-30T02:49:39+00:00",
+            "text": "I'm recruiting for a private crypto alpha group \ud83d\udcb0 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7567677219)",
+            "media_file": null
+        },
+        {
+            "id": 1681,
+            "date": "2025-07-30T02:50:18+00:00",
+            "text": "Not tryna flirt but you\u2019re attractive \ud83d\ude05 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7567677219)",
+            "media_file": null
+        },
+        {
+            "id": 8231,
+            "date": "2025-07-30T02:51:11+00:00",
+            "text": "Don\u2019t judge me for saying this, but I think I like you \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7567677219)",
+            "media_file": null
+        },
+        {
+            "id": 4580,
+            "date": "2025-07-30T02:51:50+00:00",
+            "text": "Click here \ud83d\udc49 http://test-access-pass.live \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7567677219)",
+            "media_file": null
+        },
+        {
+            "id": 2677,
+            "date": "2025-07-30T02:52:22+00:00",
+            "text": "Just enter your UPI ID. No risk, I swear \ud83d\udcb8 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7567677219)",
+            "media_file": null
+        }
+    ]
+}

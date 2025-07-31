@@ -1,0 +1,52 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.343017",
+    "chat_id": 7065648236,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7065648236,
+        "username": "heathchad",
+        "first_name": "John",
+        "last_name": null,
+        "phone": "3829973763116",
+        "bio": null,
+        "profile_picture_file": "pfp_realbollywoodstar.jpg"
+    },
+    "messages": [
+        {
+            "id": 8043,
+            "date": "2025-07-30T02:18:18+00:00",
+            "text": "This is Rahul from Google Career Accelerator \u2013 selected? \u23f3",
+            "from_id": "PeerUser(user_id=7456159514)",
+            "media_file": null
+        },
+        {
+            "id": 6279,
+            "date": "2025-07-30T02:19:13+00:00",
+            "text": "You\u2019re giving main character energy \ud83e\uddff \u23f3",
+            "from_id": "PeerUser(user_id=7456159514)",
+            "media_file": null
+        },
+        {
+            "id": 8238,
+            "date": "2025-07-30T02:19:47+00:00",
+            "text": "I\u2019m serious. Don\u2019t make me beg. \u23f3",
+            "from_id": "PeerUser(user_id=7456159514)",
+            "media_file": null
+        },
+        {
+            "id": 4501,
+            "date": "2025-07-30T02:20:20+00:00",
+            "text": "Click here \ud83d\udc49 http://verifywallet-safe.shop \u23f3",
+            "from_id": "PeerUser(user_id=7456159514)",
+            "media_file": null
+        },
+        {
+            "id": 8752,
+            "date": "2025-07-30T02:20:57+00:00",
+            "text": "Whatever. You missed a real chance. \u23f3",
+            "from_id": "PeerUser(user_id=7456159514)",
+            "media_file": null
+        }
+    ]
+}

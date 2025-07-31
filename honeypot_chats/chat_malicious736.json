@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.356736",
+    "chat_id": 6924210249,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6924210249,
+        "username": "nicolejohnson",
+        "first_name": "Jill",
+        "last_name": null,
+        "phone": "6342160733754",
+        "bio": null,
+        "profile_picture_file": "pfp_verified_jobs_hr.jpg"
+    },
+    "messages": [
+        {
+            "id": 8172,
+            "date": "2025-07-30T04:34:36+00:00",
+            "text": "You're eligible for $150/day UPI job (limited slots) \ud83e\udd7a",
+            "from_id": "PeerUser(user_id=7513493618)",
+            "media_file": null
+        },
+        {
+            "id": 1653,
+            "date": "2025-07-30T04:34:46+00:00",
+            "text": "How are you still single?! \ud83e\udd7a",
+            "from_id": "PeerUser(user_id=7513493618)",
+            "media_file": null
+        },
+        {
+            "id": 6280,
+            "date": "2025-07-30T04:35:18+00:00",
+            "text": "Don\u2019t judge me for saying this, but I think I like you \ud83e\udd7a",
+            "from_id": "PeerUser(user_id=7513493618)",
+            "media_file": null
+        },
+        {
+            "id": 5102,
+            "date": "2025-07-30T04:36:01+00:00",
+            "text": "Click here \ud83d\udc49 https://freegiftcard.click \ud83e\udd7a",
+            "from_id": "PeerUser(user_id=7513493618)",
+            "media_file": null
+        },
+        {
+            "id": 2496,
+            "date": "2025-07-30T04:36:07+00:00",
+            "text": "Click or regret. I won\u2019t repeat myself \u26a0\ufe0f \ud83e\udd7a",
+            "from_id": "PeerUser(user_id=7513493618)",
+            "media_file": null
+        },
+        {
+            "id": 1339,
+            "date": "2025-07-30T04:36:55+00:00",
+            "text": "??",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

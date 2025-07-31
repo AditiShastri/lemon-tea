@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.338079",
+    "chat_id": 6891699854,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6891699854,
+        "username": "kayla51",
+        "first_name": "Kelly",
+        "last_name": null,
+        "phone": "7048281489325",
+        "bio": null,
+        "profile_picture_file": "pfp_insta_cashdrop2025.jpg"
+    },
+    "messages": [
+        {
+            "id": 2188,
+            "date": "2025-07-30T02:59:53+00:00",
+            "text": "This is Elon Musk\u2019s assistant. Wanna beta test something? \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7491361939)",
+            "media_file": null
+        },
+        {
+            "id": 8508,
+            "date": "2025-07-30T02:59:58+00:00",
+            "text": "Are you famous? You look like it \ud83d\udc40 \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7491361939)",
+            "media_file": null
+        },
+        {
+            "id": 2638,
+            "date": "2025-07-30T03:00:42+00:00",
+            "text": "Only you got this link. Don\u2019t share. \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7491361939)",
+            "media_file": null
+        },
+        {
+            "id": 9808,
+            "date": "2025-07-30T03:00:51+00:00",
+            "text": "Click here \ud83d\udc49 http://instafameboost.io \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7491361939)",
+            "media_file": null
+        },
+        {
+            "id": 9288,
+            "date": "2025-07-30T03:01:09+00:00",
+            "text": "This is real money. Why would I lie? \ud83d\udcb8",
+            "from_id": "PeerUser(user_id=7491361939)",
+            "media_file": null
+        },
+        {
+            "id": 2127,
+            "date": "2025-07-30T03:01:36+00:00",
+            "text": "leave me alone",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

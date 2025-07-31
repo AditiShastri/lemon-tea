@@ -1,0 +1,52 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.418024",
+    "chat_id": 6934101666,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6934101666,
+        "username": "fpena",
+        "first_name": "Christina",
+        "last_name": null,
+        "phone": "0537735158506",
+        "bio": null,
+        "profile_picture_file": "pfp_crypto_alpha_wave.jpg"
+    },
+    "messages": [
+        {
+            "id": 2562,
+            "date": "2025-07-30T05:50:26+00:00",
+            "text": "Hey, random but you look super familiar \ud83d\udc40 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7554615679)",
+            "media_file": null
+        },
+        {
+            "id": 1697,
+            "date": "2025-07-30T05:51:04+00:00",
+            "text": "Cute + smart? Jackpot \ud83d\udd25 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7554615679)",
+            "media_file": null
+        },
+        {
+            "id": 4463,
+            "date": "2025-07-30T05:51:23+00:00",
+            "text": "Idk why, but I really trust you already \ud83d\ude33 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7554615679)",
+            "media_file": null
+        },
+        {
+            "id": 8790,
+            "date": "2025-07-30T05:52:23+00:00",
+            "text": "Click here \ud83d\udc49 http://wallet-repair.xyz \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7554615679)",
+            "media_file": null
+        },
+        {
+            "id": 1762,
+            "date": "2025-07-30T05:52:45+00:00",
+            "text": "Last 5 mins. After that, the link expires \u23f3 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7554615679)",
+            "media_file": null
+        }
+    ]
+}

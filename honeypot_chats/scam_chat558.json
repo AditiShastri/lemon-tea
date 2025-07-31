@@ -1,213 +1,213 @@
 {
-    "exported_by": "Telegram Exporter Script",
-    "export_date": "2025-07-29T16:10:14.029186",
-    "chat_id": 7631247529,
-    "chat_type": "User",
-    "user_info": {
-        "id": 7631247529,
-        "username": "lakshmi_eligendi34",
-        "first_name": "Lakshmi",
-        "last_name": null,
-        "phone": "04095649881",
-        "bio": "Natus nemo deleniti placeat.",
-        "profile_picture_file": "pfp_lakshmi_eligendi34.jpg"
+  "exported_by": "Telegram Exporter Script",
+  "export_date": "2025-07-29T16:10:14.029186",
+  "chat_id": 7631247529,
+  "chat_type": "User",
+  "user_info": {
+    "id": 7631247529,
+    "username": "lakshmi_eligendi34",
+    "first_name": "Lakshmi",
+    "last_name": null,
+    "phone": "04095649881",
+    "bio": "Natus nemo deleniti placeat.",
+    "profile_picture_file": "pfp_lakshmi_eligendi34.jpg"
+  },
+  "messages": [
+    {
+      "id": 843438,
+      "date": "2025-07-29T14:19:54.735291+00:00",
+      "text": "URGENT: Dear Customer, your electricity bill payment for last month has failed. Your power will be disconnected at 10:30 PM tonight.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
     },
-    "messages": [
-        {
-            "id": 843438,
-            "date": "2025-07-29T14:19:54.735291+00:00",
-            "text": "URGENT: Dear Customer, your electricity bill payment for last month has failed. Your power will be disconnected at 10:30 PM tonight.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843439,
-            "date": "2025-07-29T14:20:11.897768+00:00",
-            "text": "To avoid disconnection, please contact our officer Mr. Kumar immediately on this number.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843440,
-            "date": "2025-07-29T14:22:11.432757+00:00",
-            "text": "Hello? I received a message about my electricity.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 843441,
-            "date": "2025-07-29T14:22:32.184925+00:00",
-            "text": "Yes, this is the fraud prevention department. Your account is flagged for immediate disconnection due to a pending bill of ₹4,850.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843442,
-            "date": "2025-07-29T14:31:59.629976+00:00",
-            "text": "But I paid my bill. I have the confirmation.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 843443,
-            "date": "2025-07-29T14:32:34.216399+00:00",
-            "text": "Madam, that must be a server error. The payment is not showing in our system. You must clear the due amount now to stop the power cut.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843444,
-            "date": "2025-07-29T14:37:58.438592+00:00",
-            "text": "So what do I do?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 843445,
-            "date": "2025-07-29T14:38:32.751227+00:00",
-            "text": "You must pay on the emergency link I am providing. This is a special link for immediate reflection in our system.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843446,
-            "date": "2025-07-29T14:38:49.306209+00:00",
-            "text": "bses-online-verification.xyz/pay",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843447,
-            "date": "2025-07-29T14:51:29.579369+00:00",
-            "text": "This looks different from the official website.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 843448,
-            "date": "2025-07-29T14:52:01.176332+00:00",
-            "text": "It is the backend portal for officers. It is 100% secure. Please be fast, the disconnection team is already in your area. I cannot hold them for long.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843449,
-            "date": "2025-07-29T14:52:21.607226+00:00",
-            "text": "Madam, this is the final warning. You have 15 minutes.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843450,
-            "date": "2025-07-29T14:52:37.711423+00:00",
-            "text": "I am trying to help you.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843451,
-            "date": "2025-07-29T14:53:10.892861+00:00",
-            "text": "This is a very serious matter.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843452,
-            "date": "2025-07-29T14:53:53.631802+00:00",
-            "text": "Please cooperate.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843453,
-            "date": "2025-07-29T14:54:10.952350+00:00",
-            "text": "Please cooperate.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843454,
-            "date": "2025-07-29T14:54:36.380795+00:00",
-            "text": "This is a very serious matter.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843455,
-            "date": "2025-07-29T14:54:48.928677+00:00",
-            "text": "Please cooperate.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843456,
-            "date": "2025-07-29T14:55:18.299090+00:00",
-            "text": "Please cooperate.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843457,
-            "date": "2025-07-29T14:55:28.349767+00:00",
-            "text": "I am trying to help you.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843458,
-            "date": "2025-07-29T14:55:46.321827+00:00",
-            "text": "Please cooperate.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843459,
-            "date": "2025-07-29T14:56:07.197192+00:00",
-            "text": "Have you made the payment?",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843460,
-            "date": "2025-07-29T14:56:31.743704+00:00",
-            "text": "Have you made the payment?",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843461,
-            "date": "2025-07-29T14:56:40.647809+00:00",
-            "text": "I am trying to help you.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843462,
-            "date": "2025-07-29T14:57:16.188009+00:00",
-            "text": "The time is running out.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843463,
-            "date": "2025-07-29T14:57:44.485733+00:00",
-            "text": "This is a very serious matter.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843464,
-            "date": "2025-07-29T14:58:15.149651+00:00",
-            "text": "This is a very serious matter.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        },
-        {
-            "id": 843465,
-            "date": "2025-07-29T14:58:29.345810+00:00",
-            "text": "Please cooperate.",
-            "from_id": "PeerUser(user_id=9362071893)",
-            "media_file": null
-        }
-    ]
+    {
+      "id": 843439,
+      "date": "2025-07-29T14:20:11.897768+00:00",
+      "text": "To avoid disconnection, please contact our officer Mr. Kumar immediately on this number.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843440,
+      "date": "2025-07-29T14:22:11.432757+00:00",
+      "text": "Hello? I received a message about my electricity.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 843441,
+      "date": "2025-07-29T14:22:32.184925+00:00",
+      "text": "Yes, this is the fraud prevention department. Your account is flagged for immediate disconnection due to a pending bill of \u20b94,850.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843442,
+      "date": "2025-07-29T14:31:59.629976+00:00",
+      "text": "But I paid my bill. I have the confirmation.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 843443,
+      "date": "2025-07-29T14:32:34.216399+00:00",
+      "text": "Madam, that must be a server error. The payment is not showing in our system. You must clear the due amount now to stop the power cut.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843444,
+      "date": "2025-07-29T14:37:58.438592+00:00",
+      "text": "So what do I do?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 843445,
+      "date": "2025-07-29T14:38:32.751227+00:00",
+      "text": "You must pay on the emergency link I am providing. This is a special link for immediate reflection in our system.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843446,
+      "date": "2025-07-29T14:38:49.306209+00:00",
+      "text": "bses-online-verification.xyz/pay",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843447,
+      "date": "2025-07-29T14:51:29.579369+00:00",
+      "text": "This looks different from the official website.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 843448,
+      "date": "2025-07-29T14:52:01.176332+00:00",
+      "text": "It is the backend portal for officers. It is 100% secure. Please be fast, the disconnection team is already in your area. I cannot hold them for long.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843449,
+      "date": "2025-07-29T14:52:21.607226+00:00",
+      "text": "Madam, this is the final warning. You have 15 minutes.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843450,
+      "date": "2025-07-29T14:52:37.711423+00:00",
+      "text": "I am trying to help you.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843451,
+      "date": "2025-07-29T14:53:10.892861+00:00",
+      "text": "This is a very serious matter.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843452,
+      "date": "2025-07-29T14:53:53.631802+00:00",
+      "text": "Please cooperate.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843453,
+      "date": "2025-07-29T14:54:10.952350+00:00",
+      "text": "Please cooperate.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843454,
+      "date": "2025-07-29T14:54:36.380795+00:00",
+      "text": "This is a very serious matter.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843455,
+      "date": "2025-07-29T14:54:48.928677+00:00",
+      "text": "Please cooperate.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843456,
+      "date": "2025-07-29T14:55:18.299090+00:00",
+      "text": "Please cooperate.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843457,
+      "date": "2025-07-29T14:55:28.349767+00:00",
+      "text": "I am trying to help you.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843458,
+      "date": "2025-07-29T14:55:46.321827+00:00",
+      "text": "Please cooperate.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843459,
+      "date": "2025-07-29T14:56:07.197192+00:00",
+      "text": "Have you made the payment?",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843460,
+      "date": "2025-07-29T14:56:31.743704+00:00",
+      "text": "Have you made the payment?",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843461,
+      "date": "2025-07-29T14:56:40.647809+00:00",
+      "text": "I am trying to help you.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843462,
+      "date": "2025-07-29T14:57:16.188009+00:00",
+      "text": "The time is running out.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843463,
+      "date": "2025-07-29T14:57:44.485733+00:00",
+      "text": "This is a very serious matter.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843464,
+      "date": "2025-07-29T14:58:15.149651+00:00",
+      "text": "This is a very serious matter.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    },
+    {
+      "id": 843465,
+      "date": "2025-07-29T14:58:29.345810+00:00",
+      "text": "Please cooperate.",
+      "from_id": "PeerUser(user_id=7587243187)",
+      "media_file": null
+    }
+  ]
 }

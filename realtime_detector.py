@@ -15,8 +15,8 @@ import logging
 # --- User Configuration ---
 # IMPORTANT: Replace these with your actual Telegram API credentials.
 # You can get these from my.telegram.org.
-API_ID = 'YOUR_API_ID'
-API_HASH = 'YOUR_API_HASH'
+API_ID = '23205405'
+API_HASH = '16c7a91f1026c849ce88826f087601db'
 SESSION_NAME = 'telegram_security_monitor'
 
 # --- Script Configuration ---
@@ -61,20 +61,21 @@ def extract_features_from_history(chat_history_df, user_id, contact_id):
     if chat_history_df.empty:
         return None
 
-    # Combine all feature extraction steps
     behavioral = calculate_behavioral_features(chat_history_df, user_id, contact_id)
     linguistic = calculate_linguistic_features(chat_history_df, nlp)
     graph = calculate_graph_proxy_features(chat_history_df)
 
-    # Combine all features into a single dictionary
     all_features = {**behavioral, **linguistic, **graph}
 
-    # The conceptual feature is not used by the model, so we remove it.
+    # Add the id_is_recent feature — critical for real-time prediction
+    all_features['id_is_recent'] = int(str(contact_id).startswith(('74', '75', '76')))
+
+    # The conceptual feature is not used by the model
     if 'isolation_index_CONCEPTUAL' in all_features:
         del all_features['isolation_index_CONCEPTUAL']
 
-    # Convert to DataFrame for the model
     return pd.DataFrame([all_features])
+
 
 
 async def main():

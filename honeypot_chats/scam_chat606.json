@@ -1,227 +1,227 @@
 {
-    "exported_by": "Telegram Exporter Script",
-    "export_date": "2025-07-29T16:10:14.069793",
-    "chat_id": 1502495686,
-    "chat_type": "User",
-    "user_info": {
-        "id": 1502495686,
-        "username": "vedant_unde27",
-        "first_name": "Vedant",
-        "last_name": null,
-        "phone": "+917580588258",
-        "bio": "Distinctio vel quo alias molestiae officiis.",
-        "profile_picture_file": "pfp_vedant_unde27.jpg"
+  "exported_by": "Telegram Exporter Script",
+  "export_date": "2025-07-29T16:10:14.069793",
+  "chat_id": 1502495686,
+  "chat_type": "User",
+  "user_info": {
+    "id": 1502495686,
+    "username": "vedant_unde27",
+    "first_name": "Vedant",
+    "last_name": null,
+    "phone": "+917580588258",
+    "bio": "Distinctio vel quo alias molestiae officiis.",
+    "profile_picture_file": "pfp_vedant_unde27.jpg"
+  },
+  "messages": [
+    {
+      "id": 891415,
+      "date": "2025-07-27T21:44:59.948116+00:00",
+      "text": "Hi Finn, the trade went through perfectly. My uncle's tip on ETH was spot on. We made a huge profit.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
     },
-    "messages": [
-        {
-            "id": 891415,
-            "date": "2025-07-27T21:44:59.948116+00:00",
-            "text": "Hi Finn, the trade went through perfectly. My uncle's tip on ETH was spot on. We made a huge profit.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891416,
-            "date": "2025-07-27T21:50:13.360280+00:00",
-            "text": "Sorry, I think you have the wrong number.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 891417,
-            "date": "2025-07-27T21:50:23.140196+00:00",
-            "text": "Oh my goodness, my sincerest apologies. I must have typed the number wrong. Fate must have wanted us to meet! I'm Sophia.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891418,
-            "date": "2025-07-27T22:04:36.944071+00:00",
-            "text": "No problem.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 891419,
-            "date": "2025-07-27T22:05:20.913121+00:00",
-            "text": "You seem nice. I am a wealth manager and my passion is crypto. It has given me financial freedom. What do you do?",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891420,
-            "date": "2025-07-27T22:10:52.876755+00:00",
-            "text": "I'm a drilling engineer.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 891421,
-            "date": "2025-07-27T22:11:14.748181+00:00",
-            "text": "That's a noble profession. But are you truly happy with your income? You deserve more.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891422,
-            "date": "2025-07-27T22:22:57.443442+00:00",
-            "text": "It's fine.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 891423,
-            "date": "2025-07-27T22:23:37.641411+00:00",
-            "text": "Listen, because you were so kind, I want to share a secret. There is a coin about to EXPLODE. It's a guaranteed 50% profit in 24 hours.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891424,
-            "date": "2025-07-27T22:23:48.917640+00:00",
-            "text": "This is an opportunity of a lifetime. You just need to create an account on this special platform, 'Prime-Coin-Assets.com'. I can guide you.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891425,
-            "date": "2025-07-27T22:36:03.625958+00:00",
-            "text": "I don't know...",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 891426,
-            "date": "2025-07-27T22:36:09.271666+00:00",
-            "text": "Trust me. This is not a risk. It's a sure thing. We must act now before the price shoots up. Are you ready to change your life?",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891427,
-            "date": "2025-07-27T22:44:14.143807+00:00",
-            "text": "How much to start?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 891428,
-            "date": "2025-07-27T22:44:42.693217+00:00",
-            "text": "You can start with just ₹50,000 to see the magic. Deposit it immediately. I will tell you exactly what to buy. We must be quick.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891429,
-            "date": "2025-07-27T22:45:26.889068+00:00",
-            "text": "I'm helping you, just trust the process.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891430,
-            "date": "2025-07-27T22:46:05.212030+00:00",
-            "text": "The market is moving!",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891431,
-            "date": "2025-07-27T22:46:11.423970+00:00",
-            "text": "The market is moving!",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891432,
-            "date": "2025-07-27T22:46:53.570377+00:00",
-            "text": "Are you done with the deposit? We need to act now.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891433,
-            "date": "2025-07-27T22:47:12.669314+00:00",
-            "text": "Are you done with the deposit? We need to act now.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891434,
-            "date": "2025-07-27T22:47:30.407731+00:00",
-            "text": "Don't miss this chance!",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891435,
-            "date": "2025-07-27T22:48:06.588416+00:00",
-            "text": "Are you done with the deposit? We need to act now.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891436,
-            "date": "2025-07-27T22:48:13.868800+00:00",
-            "text": "The market is moving!",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891437,
-            "date": "2025-07-27T22:48:58.439551+00:00",
-            "text": "The market is moving!",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891438,
-            "date": "2025-07-27T22:49:30.572909+00:00",
-            "text": "This is urgent.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891439,
-            "date": "2025-07-27T22:49:51.568289+00:00",
-            "text": "The market is moving!",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891440,
-            "date": "2025-07-27T22:50:09.151293+00:00",
-            "text": "This is urgent.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891441,
-            "date": "2025-07-27T22:50:25.625175+00:00",
-            "text": "This is urgent.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891442,
-            "date": "2025-07-27T22:50:50.007949+00:00",
-            "text": "I'm helping you, just trust the process.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891443,
-            "date": "2025-07-27T22:51:33.001274+00:00",
-            "text": "Are you done with the deposit? We need to act now.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        },
-        {
-            "id": 891444,
-            "date": "2025-07-27T22:51:56.757998+00:00",
-            "text": "This is urgent.",
-            "from_id": "PeerUser(user_id=7310641159)",
-            "media_file": null
-        }
-    ]
+    {
+      "id": 891416,
+      "date": "2025-07-27T21:50:13.360280+00:00",
+      "text": "Sorry, I think you have the wrong number.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 891417,
+      "date": "2025-07-27T21:50:23.140196+00:00",
+      "text": "Oh my goodness, my sincerest apologies. I must have typed the number wrong. Fate must have wanted us to meet! I'm Sophia.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891418,
+      "date": "2025-07-27T22:04:36.944071+00:00",
+      "text": "No problem.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 891419,
+      "date": "2025-07-27T22:05:20.913121+00:00",
+      "text": "You seem nice. I am a wealth manager and my passion is crypto. It has given me financial freedom. What do you do?",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891420,
+      "date": "2025-07-27T22:10:52.876755+00:00",
+      "text": "I'm a drilling engineer.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 891421,
+      "date": "2025-07-27T22:11:14.748181+00:00",
+      "text": "That's a noble profession. But are you truly happy with your income? You deserve more.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891422,
+      "date": "2025-07-27T22:22:57.443442+00:00",
+      "text": "It's fine.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 891423,
+      "date": "2025-07-27T22:23:37.641411+00:00",
+      "text": "Listen, because you were so kind, I want to share a secret. There is a coin about to EXPLODE. It's a guaranteed 50% profit in 24 hours.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891424,
+      "date": "2025-07-27T22:23:48.917640+00:00",
+      "text": "This is an opportunity of a lifetime. You just need to create an account on this special platform, 'Prime-Coin-Assets.com'. I can guide you.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891425,
+      "date": "2025-07-27T22:36:03.625958+00:00",
+      "text": "I don't know...",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 891426,
+      "date": "2025-07-27T22:36:09.271666+00:00",
+      "text": "Trust me. This is not a risk. It's a sure thing. We must act now before the price shoots up. Are you ready to change your life?",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891427,
+      "date": "2025-07-27T22:44:14.143807+00:00",
+      "text": "How much to start?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 891428,
+      "date": "2025-07-27T22:44:42.693217+00:00",
+      "text": "You can start with just \u20b950,000 to see the magic. Deposit it immediately. I will tell you exactly what to buy. We must be quick.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891429,
+      "date": "2025-07-27T22:45:26.889068+00:00",
+      "text": "I'm helping you, just trust the process.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891430,
+      "date": "2025-07-27T22:46:05.212030+00:00",
+      "text": "The market is moving!",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891431,
+      "date": "2025-07-27T22:46:11.423970+00:00",
+      "text": "The market is moving!",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891432,
+      "date": "2025-07-27T22:46:53.570377+00:00",
+      "text": "Are you done with the deposit? We need to act now.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891433,
+      "date": "2025-07-27T22:47:12.669314+00:00",
+      "text": "Are you done with the deposit? We need to act now.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891434,
+      "date": "2025-07-27T22:47:30.407731+00:00",
+      "text": "Don't miss this chance!",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891435,
+      "date": "2025-07-27T22:48:06.588416+00:00",
+      "text": "Are you done with the deposit? We need to act now.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891436,
+      "date": "2025-07-27T22:48:13.868800+00:00",
+      "text": "The market is moving!",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891437,
+      "date": "2025-07-27T22:48:58.439551+00:00",
+      "text": "The market is moving!",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891438,
+      "date": "2025-07-27T22:49:30.572909+00:00",
+      "text": "This is urgent.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891439,
+      "date": "2025-07-27T22:49:51.568289+00:00",
+      "text": "The market is moving!",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891440,
+      "date": "2025-07-27T22:50:09.151293+00:00",
+      "text": "This is urgent.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891441,
+      "date": "2025-07-27T22:50:25.625175+00:00",
+      "text": "This is urgent.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891442,
+      "date": "2025-07-27T22:50:50.007949+00:00",
+      "text": "I'm helping you, just trust the process.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891443,
+      "date": "2025-07-27T22:51:33.001274+00:00",
+      "text": "Are you done with the deposit? We need to act now.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    },
+    {
+      "id": 891444,
+      "date": "2025-07-27T22:51:56.757998+00:00",
+      "text": "This is urgent.",
+      "from_id": "PeerUser(user_id=7600736826)",
+      "media_file": null
+    }
+  ]
 }

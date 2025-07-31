@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.351288",
+    "chat_id": 6914737996,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6914737996,
+        "username": "jonesjason",
+        "first_name": "Joseph",
+        "last_name": null,
+        "phone": "1354278498084",
+        "bio": null,
+        "profile_picture_file": "pfp_binancewallet_alert.jpg"
+    },
+    "messages": [
+        {
+            "id": 5581,
+            "date": "2025-07-30T23:16:26+00:00",
+            "text": "Hey! I saw your reel and thought we should talk \ud83d\udd25 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7598776945)",
+            "media_file": null
+        },
+        {
+            "id": 5526,
+            "date": "2025-07-30T23:17:09+00:00",
+            "text": "Cute + smart? Jackpot \ud83d\udd25 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7598776945)",
+            "media_file": null
+        },
+        {
+            "id": 1166,
+            "date": "2025-07-30T23:17:49+00:00",
+            "text": "Don\u2019t judge me for saying this, but I think I like you \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7598776945)",
+            "media_file": null
+        },
+        {
+            "id": 4130,
+            "date": "2025-07-30T23:18:27+00:00",
+            "text": "Click here \ud83d\udc49 https://bit.ly/freedrop100 \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7598776945)",
+            "media_file": null
+        },
+        {
+            "id": 4954,
+            "date": "2025-07-30T23:18:37+00:00",
+            "text": "Even my cousin earned from this. Ask him. \ud83d\ude33",
+            "from_id": "PeerUser(user_id=7598776945)",
+            "media_file": null
+        },
+        {
+            "id": 4937,
+            "date": "2025-07-30T23:19:30+00:00",
+            "text": "Don\u2019t miss this chance \ud83d\udcb0",
+            "from_id": "PeerUser(user_id=7598776945)",
+            "media_file": null
+        }
+    ]
+}

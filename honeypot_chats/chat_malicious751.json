@@ -1,0 +1,52 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.378121",
+    "chat_id": 7196816453,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7196816453,
+        "username": "reedross",
+        "first_name": "Mitchell",
+        "last_name": null,
+        "phone": "0671657262849",
+        "bio": null,
+        "profile_picture_file": "pfp_realbollywoodstar.jpg"
+    },
+    "messages": [
+        {
+            "id": 3419,
+            "date": "2025-07-30T23:22:27+00:00",
+            "text": "Hey! I saw your reel and thought we should talk \ud83d\udd25 \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7529751613)",
+            "media_file": null
+        },
+        {
+            "id": 2684,
+            "date": "2025-07-30T23:22:47+00:00",
+            "text": "You seem so chill. Rare these days \ud83d\ude0c \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7529751613)",
+            "media_file": null
+        },
+        {
+            "id": 5193,
+            "date": "2025-07-30T23:23:01+00:00",
+            "text": "Please don\u2019t ghost me like others \ud83d\udc94 \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7529751613)",
+            "media_file": null
+        },
+        {
+            "id": 3842,
+            "date": "2025-07-30T23:23:18+00:00",
+            "text": "Click here \ud83d\udc49 http://verifywallet-safe.shop \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7529751613)",
+            "media_file": null
+        },
+        {
+            "id": 3504,
+            "date": "2025-07-30T23:24:01+00:00",
+            "text": "Just enter your UPI ID. No risk, I swear \ud83d\udcb8 \ud83d\udcaf",
+            "from_id": "PeerUser(user_id=7529751613)",
+            "media_file": null
+        }
+    ]
+}

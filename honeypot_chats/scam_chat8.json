@@ -1,42 +1,192 @@
 {
-    "exported_by": "Telegram Exporter Script",
-    "export_date": "2025-07-29T16:15:30.555555",
-    "chat_id": 5893543403,
-    "chat_type": "User",
-    "user_info": {
-      "id": 5893543403,
-      "username": "anita_k",
-      "first_name": "Anita",
-      "last_name": null,
-      "phone": "919555544444",
-      "bio": "Love to travel",
-      "profile_picture_file": "pfp_anita_k.jpg"
+  "exported_by": "Telegram Exporter Script",
+  "export_date": "2025-07-29T16:15:30.555555",
+  "chat_id": 5893543403,
+  "chat_type": "User",
+  "user_info": {
+    "id": 5893543403,
+    "username": "anita_k",
+    "first_name": "Anita",
+    "last_name": null,
+    "phone": "919555544444",
+    "bio": "Love to travel",
+    "profile_picture_file": "pfp_anita_k.jpg"
+  },
+  "messages": [
+    {
+      "id": 5001,
+      "date": "2025-07-20T22:30:15+00:00",
+      "text": "Good evening. Hope I'm not disturbing you.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
     },
-    "messages": [
-      { "id": 5001, "date": "2025-07-20T22:30:15+00:00", "text": "Good evening. Hope I'm not disturbing you.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5002, "date": "2025-07-20T22:32:00+00:00", "text": "Hello. No, it's fine. Do I know you?", "from_id": null, "media_file": null },
-      { "id": 5003, "date": "2025-07-20T22:32:10+00:00", "text": "I don't think so. I'm Chen. I'm a programmer living in Hong Kong. I enjoy connecting with people from different cultures. Your profile seemed interesting.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5004, "date": "2025-07-21T17:00:05+00:00", "text": "Good evening, Anita. How was your day? I hope it was as lovely as you are.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5005, "date": "2025-07-21T17:05:15+00:00", "text": "It was busy. Hello Chen.", "from_id": null, "media_file": null },
-      { "id": 5006, "date": "2025-07-21T17:05:25+00:00", "text": "You work so hard. You should relax. I had a very profitable day. My side-project in forex trading did very well.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5007, "date": "2025-07-22T23:00:00+00:00", "text": "Are you awake, my dear Anita? I can't sleep. I keep thinking about our conversation.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5008, "date": "2025-07-22T23:02:10+00:00", "text": "Wow, it's late. I was just about to sleep.", "from_id": null, "media_file": null },
-      { "id": 5009, "date": "2025-07-22T23:02:20+00:00", "text": "I'm sorry. I just feel so comfortable talking to you. You are a very good listener. It's rare to find someone so genuine.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5010, "date": "2025-07-24T15:00:30+00:00", "text": "I made another great profit today! Over $5000. I feel so blessed. I want to share my luck with you.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5011, "date": "2025-07-24T15:03:00+00:00", "text": "That's amazing, congrats.", "from_id": null, "media_file": null },
-      { "id": 5012, "date": "2025-07-24T15:03:15+00:00", "text": "It's not luck, it's a system. A data-driven strategy. I have been developing it. It's my secret.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5013, "date": "2025-07-25T16:20:00+00:00", "text": "Anita, I have been thinking. Our meeting was not an accident. I feel we have a future. I want to build a life with someone special. Someone like you.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5014, "date": "2025-07-25T16:22:45+00:00", "text": "Chen, we've only been talking for a few days.", "from_id": null, "media_file": null },
-      { "id": 5015, "date": "2025-07-25T16:22:55+00:00", "text": "Time is not important when the feeling is real. I want to help you achieve your dreams. I can teach you my trading method. We can become rich together and travel the world.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5016, "date": "2025-07-26T14:00:00+00:00", "text": "Are you ready to change your life, my love?", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5017, "date": "2025-07-26T14:02:10+00:00", "text": "I'm not a gambler.", "from_id": null, "media_file": null },
-      { "id": 5018, "date": "2025-07-26T14:02:20+00:00", "text": "This is not gambling, it's a science. I will show you. Just open an account on this platform, 'MetaGold'. I will give you a small signal to test. You will see. Trust me.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5019, "date": "2025-07-27T11:30:10+00:00", "text": "Okay, I created an account.", "from_id": null, "media_file": null },
-      { "id": 5020, "date": "2025-07-27T11:30:15+00:00", "text": "Wonderful! Now, deposit $200. I will tell you exactly when to buy and sell. You will see a 20% return in one hour. It's a guarantee.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5021, "date": "2025-07-27T12:45:00+00:00", "text": "Wow, it worked! My balance is $240!", "from_id": null, "media_file": null },
-      { "id": 5022, "date": "2025-07-27T12:45:08+00:00", "text": "Of course it did, my love! I told you. Now, imagine if you invested more? There is a big market event happening tomorrow. A once-in-a-year opportunity. We should invest at least $10,000 for maximum profit.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5023, "date": "2025-07-27T12:46:00+00:00", "text": "That is too much money for me.", "from_id": null, "media_file": null },
-      { "id": 5024, "date": "2025-07-27T12:46:10+00:00", "text": "You must think bigger for our future! This is a sure thing. Don't you want to be financially free with me? You must deposit it immediately before the market opens.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null },
-      { "id": 5025, "date": "2025-07-27T12:46:20+00:00", "text": "Don't let fear hold you back from our destiny. I will be right here with you.", "from_id": "PeerUser(user_id=5186126721)", "media_file": null }
-    ]
+    {
+      "id": 5002,
+      "date": "2025-07-20T22:32:00+00:00",
+      "text": "Hello. No, it's fine. Do I know you?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5003,
+      "date": "2025-07-20T22:32:10+00:00",
+      "text": "I don't think so. I'm Chen. I'm a programmer living in Hong Kong. I enjoy connecting with people from different cultures. Your profile seemed interesting.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5004,
+      "date": "2025-07-21T17:00:05+00:00",
+      "text": "Good evening, Anita. How was your day? I hope it was as lovely as you are.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5005,
+      "date": "2025-07-21T17:05:15+00:00",
+      "text": "It was busy. Hello Chen.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5006,
+      "date": "2025-07-21T17:05:25+00:00",
+      "text": "You work so hard. You should relax. I had a very profitable day. My side-project in forex trading did very well.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5007,
+      "date": "2025-07-22T23:00:00+00:00",
+      "text": "Are you awake, my dear Anita? I can't sleep. I keep thinking about our conversation.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5008,
+      "date": "2025-07-22T23:02:10+00:00",
+      "text": "Wow, it's late. I was just about to sleep.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5009,
+      "date": "2025-07-22T23:02:20+00:00",
+      "text": "I'm sorry. I just feel so comfortable talking to you. You are a very good listener. It's rare to find someone so genuine.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5010,
+      "date": "2025-07-24T15:00:30+00:00",
+      "text": "I made another great profit today! Over $5000. I feel so blessed. I want to share my luck with you.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5011,
+      "date": "2025-07-24T15:03:00+00:00",
+      "text": "That's amazing, congrats.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5012,
+      "date": "2025-07-24T15:03:15+00:00",
+      "text": "It's not luck, it's a system. A data-driven strategy. I have been developing it. It's my secret.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5013,
+      "date": "2025-07-25T16:20:00+00:00",
+      "text": "Anita, I have been thinking. Our meeting was not an accident. I feel we have a future. I want to build a life with someone special. Someone like you.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5014,
+      "date": "2025-07-25T16:22:45+00:00",
+      "text": "Chen, we've only been talking for a few days.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5015,
+      "date": "2025-07-25T16:22:55+00:00",
+      "text": "Time is not important when the feeling is real. I want to help you achieve your dreams. I can teach you my trading method. We can become rich together and travel the world.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5016,
+      "date": "2025-07-26T14:00:00+00:00",
+      "text": "Are you ready to change your life, my love?",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5017,
+      "date": "2025-07-26T14:02:10+00:00",
+      "text": "I'm not a gambler.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5018,
+      "date": "2025-07-26T14:02:20+00:00",
+      "text": "This is not gambling, it's a science. I will show you. Just open an account on this platform, 'MetaGold'. I will give you a small signal to test. You will see. Trust me.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5019,
+      "date": "2025-07-27T11:30:10+00:00",
+      "text": "Okay, I created an account.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5020,
+      "date": "2025-07-27T11:30:15+00:00",
+      "text": "Wonderful! Now, deposit $200. I will tell you exactly when to buy and sell. You will see a 20% return in one hour. It's a guarantee.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5021,
+      "date": "2025-07-27T12:45:00+00:00",
+      "text": "Wow, it worked! My balance is $240!",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5022,
+      "date": "2025-07-27T12:45:08+00:00",
+      "text": "Of course it did, my love! I told you. Now, imagine if you invested more? There is a big market event happening tomorrow. A once-in-a-year opportunity. We should invest at least $10,000 for maximum profit.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5023,
+      "date": "2025-07-27T12:46:00+00:00",
+      "text": "That is too much money for me.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 5024,
+      "date": "2025-07-27T12:46:10+00:00",
+      "text": "You must think bigger for our future! This is a sure thing. Don't you want to be financially free with me? You must deposit it immediately before the market opens.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    },
+    {
+      "id": 5025,
+      "date": "2025-07-27T12:46:20+00:00",
+      "text": "Don't let fear hold you back from our destiny. I will be right here with you.",
+      "from_id": "PeerUser(user_id=7444351128)",
+      "media_file": null
+    }
+  ]
 }

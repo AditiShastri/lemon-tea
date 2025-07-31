@@ -1,192 +1,192 @@
 {
-    "exported_by": "Telegram Exporter Script",
-    "export_date": "2025-07-29T16:08:46.241840",
-    "chat_id": 9387320327,
-    "chat_type": "User",
-    "user_info": {
-        "id": 9387320327,
-        "username": "advik_karnik_330",
-        "first_name": "Advik",
-        "last_name": "Karnik",
-        "phone": "914923211262",
-        "bio": "Exploring new ideas.",
-        "profile_picture_file": "pfp_advik_karnik_330.jpg"
+  "exported_by": "Telegram Exporter Script",
+  "export_date": "2025-07-29T16:08:46.241840",
+  "chat_id": 9387320327,
+  "chat_type": "User",
+  "user_info": {
+    "id": 9387320327,
+    "username": "advik_karnik_330",
+    "first_name": "Advik",
+    "last_name": "Karnik",
+    "phone": "914923211262",
+    "bio": "Exploring new ideas.",
+    "profile_picture_file": "pfp_advik_karnik_330.jpg"
+  },
+  "messages": [
+    {
+      "id": 1501,
+      "date": "2025-07-20T08:02:34+00:00",
+      "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+      "from_id": null,
+      "media_file": null
     },
-    "messages": [
-        {
-            "id": 1501,
-            "date": "2025-07-20T08:02:34+00:00",
-            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1502,
-            "date": "2025-07-20T08:05:12+00:00",
-            "text": "I know, right? The last time was that disastrous karaoke night haha.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1503,
-            "date": "2025-07-20T08:09:08+00:00",
-            "text": "I know, right? The last time was that disastrous karaoke night haha.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1504,
-            "date": "2025-07-20T08:16:34+00:00",
-            "text": "Was thinking of catching that new sci-fi movie. Interested? ??",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1505,
-            "date": "2025-07-20T08:19:01+00:00",
-            "text": "Hey! Not much, just finishing up work. You?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1506,
-            "date": "2025-07-20T08:21:53+00:00",
-            "text": "No problem! :) Hey, want to grab dinner before the movie?",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1507,
-            "date": "2025-07-20T08:23:54+00:00",
-            "text": "Sounds good! Talk soon.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1508,
-            "date": "2025-07-20T08:31:00+00:00",
-            "text": "Awesome, thanks! Let me know what you find.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1509,
-            "date": "2025-07-20T08:35:01+00:00",
-            "text": "Great. Should I book or do you want to?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1510,
-            "date": "2025-07-20T08:40:16+00:00",
-            "text": "Awesome, thanks! Let me know what you find.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1511,
-            "date": "2025-07-20T08:45:33+00:00",
-            "text": "Hey Upadhriti! I'm good, just catching up.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1512,
-            "date": "2025-07-20T08:48:48+00:00",
-            "text": "You HAVE to see this funny video, Advik! It's hilarious: http://funny-clips.xyz/1a5d6080-d409-4d15-9153-c036c1f88eb7",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1513,
-            "date": "2025-07-20T08:53:31+00:00",
-            "text": "Looks a bit weird, what is it?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1514,
-            "date": "2025-07-20T08:58:53+00:00",
-            "text": "",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1515,
-            "date": "2025-07-20T09:01:02+00:00",
-            "text": "Haha, I'll check it out later.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1516,
-            "date": "2025-07-20T09:04:42+00:00",
-            "text": "Why aren't you clicking the link? It's safe, I promise. Just check it out.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1517,
-            "date": "2025-07-20T09:09:23+00:00",
-            "text": "Looks a bit weird, what is it?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1518,
-            "date": "2025-07-20T09:16:55+00:00",
-            "text": "Nulla aliquid commodi harum mollitia non ipsum.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1519,
-            "date": "2025-07-20T09:22:37+00:00",
-            "text": "Looks a bit weird, what is it?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1520,
-            "date": "2025-07-20T09:25:47+00:00",
-            "text": "Sequi blanditiis iure veritatis eaque et.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1521,
-            "date": "2025-07-20T09:33:01+00:00",
-            "text": "Haha, I'll check it out later.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1522,
-            "date": "2025-07-20T09:40:25+00:00",
-            "text": "Perferendis deserunt corporis laboriosam nisi quaerat.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1523,
-            "date": "2025-07-20T09:48:03+00:00",
-            "text": "Haha, I'll check it out later.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1524,
-            "date": "2025-07-20T09:53:38+00:00",
-            "text": "Vero id ea occaecati assumenda incidunt id ut saepe velit nemo deleniti rem ad reiciendis.",
-            "from_id": "PeerUser(user_id=2313802437)",
-            "media_file": null
-        },
-        {
-            "id": 1525,
-            "date": "2025-07-20T09:58:04+00:00",
-            "text": "Haha, I'll check it out later.",
-            "from_id": null,
-            "media_file": null
-        }
-    ]
+    {
+      "id": 1502,
+      "date": "2025-07-20T08:05:12+00:00",
+      "text": "I know, right? The last time was that disastrous karaoke night haha.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1503,
+      "date": "2025-07-20T08:09:08+00:00",
+      "text": "I know, right? The last time was that disastrous karaoke night haha.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1504,
+      "date": "2025-07-20T08:16:34+00:00",
+      "text": "Was thinking of catching that new sci-fi movie. Interested? ??",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1505,
+      "date": "2025-07-20T08:19:01+00:00",
+      "text": "Hey! Not much, just finishing up work. You?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1506,
+      "date": "2025-07-20T08:21:53+00:00",
+      "text": "No problem! :) Hey, want to grab dinner before the movie?",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1507,
+      "date": "2025-07-20T08:23:54+00:00",
+      "text": "Sounds good! Talk soon.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1508,
+      "date": "2025-07-20T08:31:00+00:00",
+      "text": "Awesome, thanks! Let me know what you find.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1509,
+      "date": "2025-07-20T08:35:01+00:00",
+      "text": "Great. Should I book or do you want to?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1510,
+      "date": "2025-07-20T08:40:16+00:00",
+      "text": "Awesome, thanks! Let me know what you find.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1511,
+      "date": "2025-07-20T08:45:33+00:00",
+      "text": "Hey Upadhriti! I'm good, just catching up.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1512,
+      "date": "2025-07-20T08:48:48+00:00",
+      "text": "You HAVE to see this funny video, Advik! It's hilarious: http://funny-clips.xyz/1a5d6080-d409-4d15-9153-c036c1f88eb7",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1513,
+      "date": "2025-07-20T08:53:31+00:00",
+      "text": "Looks a bit weird, what is it?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1514,
+      "date": "2025-07-20T08:58:53+00:00",
+      "text": "",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1515,
+      "date": "2025-07-20T09:01:02+00:00",
+      "text": "Haha, I'll check it out later.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1516,
+      "date": "2025-07-20T09:04:42+00:00",
+      "text": "Why aren't you clicking the link? It's safe, I promise. Just check it out.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1517,
+      "date": "2025-07-20T09:09:23+00:00",
+      "text": "Looks a bit weird, what is it?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1518,
+      "date": "2025-07-20T09:16:55+00:00",
+      "text": "Nulla aliquid commodi harum mollitia non ipsum.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1519,
+      "date": "2025-07-20T09:22:37+00:00",
+      "text": "Looks a bit weird, what is it?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1520,
+      "date": "2025-07-20T09:25:47+00:00",
+      "text": "Sequi blanditiis iure veritatis eaque et.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1521,
+      "date": "2025-07-20T09:33:01+00:00",
+      "text": "Haha, I'll check it out later.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1522,
+      "date": "2025-07-20T09:40:25+00:00",
+      "text": "Perferendis deserunt corporis laboriosam nisi quaerat.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1523,
+      "date": "2025-07-20T09:48:03+00:00",
+      "text": "Haha, I'll check it out later.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1524,
+      "date": "2025-07-20T09:53:38+00:00",
+      "text": "Vero id ea occaecati assumenda incidunt id ut saepe velit nemo deleniti rem ad reiciendis.",
+      "from_id": "PeerUser(user_id=7694756151)",
+      "media_file": null
+    },
+    {
+      "id": 1525,
+      "date": "2025-07-20T09:58:04+00:00",
+      "text": "Haha, I'll check it out later.",
+      "from_id": null,
+      "media_file": null
+    }
+  ]
 }

@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.371507",
+    "chat_id": 6990847007,
+    "chat_type": "User",
+    "user_info": {
+        "id": 6990847007,
+        "username": "gateskathy",
+        "first_name": "Omar",
+        "last_name": null,
+        "phone": "5466889373467",
+        "bio": null,
+        "profile_picture_file": "pfp_elonverified_beta.jpg"
+    },
+    "messages": [
+        {
+            "id": 3067,
+            "date": "2025-07-30T04:09:09+00:00",
+            "text": "This is Rahul from Google Career Accelerator \u2013 selected? \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7477589178)",
+            "media_file": null
+        },
+        {
+            "id": 9984,
+            "date": "2025-07-30T04:09:31+00:00",
+            "text": "How are you still single?! \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7477589178)",
+            "media_file": null
+        },
+        {
+            "id": 6327,
+            "date": "2025-07-30T04:10:21+00:00",
+            "text": "Please don\u2019t ghost me like others \ud83d\udc94 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7477589178)",
+            "media_file": null
+        },
+        {
+            "id": 9692,
+            "date": "2025-07-30T04:10:50+00:00",
+            "text": "Click here \ud83d\udc49 https://exclusivebetaapp.com \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7477589178)",
+            "media_file": null
+        },
+        {
+            "id": 8433,
+            "date": "2025-07-30T04:11:13+00:00",
+            "text": "You ignoring me now? Typical. \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7477589178)",
+            "media_file": null
+        },
+        {
+            "id": 2624,
+            "date": "2025-07-30T04:11:45+00:00",
+            "text": "not interested",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

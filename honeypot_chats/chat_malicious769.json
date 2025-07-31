@@ -1,0 +1,59 @@
+{
+    "exported_by": "Telegram Exporter Script",
+    "export_date": "2025-07-30T00:22:05.404127",
+    "chat_id": 7112082677,
+    "chat_type": "User",
+    "user_info": {
+        "id": 7112082677,
+        "username": "martineztammy",
+        "first_name": "Martin",
+        "last_name": null,
+        "phone": "7187026217459",
+        "bio": null,
+        "profile_picture_file": "pfp_upijobs_payouts.jpg"
+    },
+    "messages": [
+        {
+            "id": 1611,
+            "date": "2025-07-30T04:47:51+00:00",
+            "text": "This is Elon Musk\u2019s assistant. Wanna beta test something? \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7408330165)",
+            "media_file": null
+        },
+        {
+            "id": 7846,
+            "date": "2025-07-30T04:48:07+00:00",
+            "text": "I love your vibe, fr \ud83e\udef6 \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7408330165)",
+            "media_file": null
+        },
+        {
+            "id": 3880,
+            "date": "2025-07-30T04:49:05+00:00",
+            "text": "I\u2019ve been so lonely lately... just needed someone \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7408330165)",
+            "media_file": null
+        },
+        {
+            "id": 7504,
+            "date": "2025-07-30T04:49:12+00:00",
+            "text": "Click here \ud83d\udc49 https://freegiftcard.click \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7408330165)",
+            "media_file": null
+        },
+        {
+            "id": 9116,
+            "date": "2025-07-30T04:50:07+00:00",
+            "text": "This is real money. Why would I lie? \ud83d\udc8b",
+            "from_id": "PeerUser(user_id=7408330165)",
+            "media_file": null
+        },
+        {
+            "id": 5742,
+            "date": "2025-07-30T04:50:59+00:00",
+            "text": "what is this?",
+            "from_id": null,
+            "media_file": null
+        }
+    ]
+}

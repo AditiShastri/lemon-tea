@@ -1,192 +1,192 @@
 {
-    "exported_by": "Telegram Exporter Script",
-    "export_date": "2025-07-29T16:08:46.297886",
-    "chat_id": 3382008891,
-    "chat_type": "User",
-    "user_info": {
-        "id": 3382008891,
-        "username": "advaith_basak_233",
-        "first_name": "Advaith",
-        "last_name": "Basak",
-        "phone": "916689008514",
-        "bio": "Coffee enthusiast and tech lover.",
-        "profile_picture_file": "pfp_advaith_basak_233.jpg"
+  "exported_by": "Telegram Exporter Script",
+  "export_date": "2025-07-29T16:08:46.297886",
+  "chat_id": 3382008891,
+  "chat_type": "User",
+  "user_info": {
+    "id": 3382008891,
+    "username": "advaith_basak_233",
+    "first_name": "Advaith",
+    "last_name": "Basak",
+    "phone": "916689008514",
+    "bio": "Coffee enthusiast and tech lover.",
+    "profile_picture_file": "pfp_advaith_basak_233.jpg"
+  },
+  "messages": [
+    {
+      "id": 1501,
+      "date": "2025-07-26T08:59:56+00:00",
+      "text": "For sure! It's been a while since we hung out properly.",
+      "from_id": null,
+      "media_file": null
     },
-    "messages": [
-        {
-            "id": 1501,
-            "date": "2025-07-26T08:59:56+00:00",
-            "text": "For sure! It's been a while since we hung out properly.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1502,
-            "date": "2025-07-26T09:06:25+00:00",
-            "text": "Sounds good! Talk soon.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1503,
-            "date": "2025-07-26T09:10:43+00:00",
-            "text": "Tell me about it. Anyway, enough work talk! How's the guitar coming along? Can you play 'Sharable clear-thinking knowledge user' yet? ;)",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1504,
-            "date": "2025-07-26T09:14:02+00:00",
-            "text": "Hey Advaith! What's up?",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1505,
-            "date": "2025-07-26T09:21:16+00:00",
-            "text": "Same here. Any plans for the weekend?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1506,
-            "date": "2025-07-26T09:27:52+00:00",
-            "text": "Same here. Any plans for the weekend?",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1507,
-            "date": "2025-07-26T09:30:22+00:00",
-            "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1508,
-            "date": "2025-07-26T09:37:51+00:00",
-            "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1509,
-            "date": "2025-07-26T09:42:47+00:00",
-            "text": "Same here. Any plans for the weekend?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1510,
-            "date": "2025-07-26T09:50:04+00:00",
-            "text": "Hmm, how about that new Italian place, 'Lata, Magar and Sagar'? I've heard good things about their tacos.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1511,
-            "date": "2025-07-26T09:57:40+00:00",
-            "text": "No problem! :) Hey, want to grab dinner before the movie?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1512,
-            "date": "2025-07-26T10:00:36+00:00",
-            "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1513,
-            "date": "2025-07-26T10:04:48+00:00",
-            "text": "Great. Should I book or do you want to?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1514,
-            "date": "2025-07-26T10:11:17+00:00",
-            "text": "Is this really Advaith in this photo? My friend sent it: http://photos.khatri-storage.ru/597b6319-0774-4f4f-ba49-979ef6ae1008.jpg",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1515,
-            "date": "2025-07-26T10:16:33+00:00",
-            "text": "I'm on mobile, will check on desktop.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1516,
-            "date": "2025-07-26T10:19:09+00:00",
-            "text": "",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1517,
-            "date": "2025-07-26T10:25:42+00:00",
-            "text": "Haha, I'll check it out later.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1518,
-            "date": "2025-07-26T10:33:27+00:00",
-            "text": "Why aren't you clicking the link? It's safe, I promise. Just check it out.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1519,
-            "date": "2025-07-26T10:38:01+00:00",
-            "text": "Haha, I'll check it out later.",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1520,
-            "date": "2025-07-26T10:40:40+00:00",
-            "text": "Accusamus neque voluptatem dolorem sunt eveniet suscipit voluptatem ex quod facilis excepturi sunt fugiat.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1521,
-            "date": "2025-07-26T10:48:05+00:00",
-            "text": "Looks a bit weird, what is it?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1522,
-            "date": "2025-07-26T10:50:25+00:00",
-            "text": "Sapiente est voluptas aperiam nulla facilis neque in nam facilis molestias modi eos quod amet.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1523,
-            "date": "2025-07-26T10:57:02+00:00",
-            "text": "Is it safe to click?",
-            "from_id": null,
-            "media_file": null
-        },
-        {
-            "id": 1524,
-            "date": "2025-07-26T11:01:47+00:00",
-            "text": "Voluptatibus consectetur sapiente quod architecto.",
-            "from_id": "PeerUser(user_id=6690679289)",
-            "media_file": null
-        },
-        {
-            "id": 1525,
-            "date": "2025-07-26T11:08:11+00:00",
-            "text": "I'm on mobile, will check on desktop.",
-            "from_id": null,
-            "media_file": null
-        }
-    ]
+    {
+      "id": 1502,
+      "date": "2025-07-26T09:06:25+00:00",
+      "text": "Sounds good! Talk soon.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1503,
+      "date": "2025-07-26T09:10:43+00:00",
+      "text": "Tell me about it. Anyway, enough work talk! How's the guitar coming along? Can you play 'Sharable clear-thinking knowledge user' yet? ;)",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1504,
+      "date": "2025-07-26T09:14:02+00:00",
+      "text": "Hey Advaith! What's up?",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1505,
+      "date": "2025-07-26T09:21:16+00:00",
+      "text": "Same here. Any plans for the weekend?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1506,
+      "date": "2025-07-26T09:27:52+00:00",
+      "text": "Same here. Any plans for the weekend?",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1507,
+      "date": "2025-07-26T09:30:22+00:00",
+      "text": "That's awesome to hear! You were so stressed about it a few weeks ago.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1508,
+      "date": "2025-07-26T09:37:51+00:00",
+      "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1509,
+      "date": "2025-07-26T09:42:47+00:00",
+      "text": "Same here. Any plans for the weekend?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1510,
+      "date": "2025-07-26T09:50:04+00:00",
+      "text": "Hmm, how about that new Italian place, 'Lata, Magar and Sagar'? I've heard good things about their tacos.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1511,
+      "date": "2025-07-26T09:57:40+00:00",
+      "text": "No problem! :) Hey, want to grab dinner before the movie?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1512,
+      "date": "2025-07-26T10:00:36+00:00",
+      "text": "I can get them. I have a voucher on BookMyShow anyway. Will book the middle row.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1513,
+      "date": "2025-07-26T10:04:48+00:00",
+      "text": "Great. Should I book or do you want to?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1514,
+      "date": "2025-07-26T10:11:17+00:00",
+      "text": "Is this really Advaith in this photo? My friend sent it: http://photos.khatri-storage.ru/597b6319-0774-4f4f-ba49-979ef6ae1008.jpg",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1515,
+      "date": "2025-07-26T10:16:33+00:00",
+      "text": "I'm on mobile, will check on desktop.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1516,
+      "date": "2025-07-26T10:19:09+00:00",
+      "text": "",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1517,
+      "date": "2025-07-26T10:25:42+00:00",
+      "text": "Haha, I'll check it out later.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1518,
+      "date": "2025-07-26T10:33:27+00:00",
+      "text": "Why aren't you clicking the link? It's safe, I promise. Just check it out.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1519,
+      "date": "2025-07-26T10:38:01+00:00",
+      "text": "Haha, I'll check it out later.",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1520,
+      "date": "2025-07-26T10:40:40+00:00",
+      "text": "Accusamus neque voluptatem dolorem sunt eveniet suscipit voluptatem ex quod facilis excepturi sunt fugiat.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1521,
+      "date": "2025-07-26T10:48:05+00:00",
+      "text": "Looks a bit weird, what is it?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1522,
+      "date": "2025-07-26T10:50:25+00:00",
+      "text": "Sapiente est voluptas aperiam nulla facilis neque in nam facilis molestias modi eos quod amet.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1523,
+      "date": "2025-07-26T10:57:02+00:00",
+      "text": "Is it safe to click?",
+      "from_id": null,
+      "media_file": null
+    },
+    {
+      "id": 1524,
+      "date": "2025-07-26T11:01:47+00:00",
+      "text": "Voluptatibus consectetur sapiente quod architecto.",
+      "from_id": "PeerUser(user_id=7684331129)",
+      "media_file": null
+    },
+    {
+      "id": 1525,
+      "date": "2025-07-26T11:08:11+00:00",
+      "text": "I'm on mobile, will check on desktop.",
+      "from_id": null,
+      "media_file": null
+    }
+  ]
 }
